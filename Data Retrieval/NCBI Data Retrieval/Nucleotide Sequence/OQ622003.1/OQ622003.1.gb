@@ -1,0 +1,54 @@
+LOCUS       OQ622003                 359 bp    DNA     linear   PRI 22-JUL-2023
+DEFINITION  Homo sapiens BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   OQ622003
+VERSION     OQ622003.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 359)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.
+  TITLE     Investigation of BRCA1 exon 5,8,13 and 20 genetic variations in
+            breast cancer among Libyan women
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 359)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2023) Genetic Engineering, Libyan Biotechnology
+            Research Centre, Alfornaj, Tripoli 00218, Libya
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..359
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="n24"
+                     /db_xref="taxon:9606"
+                     /PCR_primers="fwd_name: ex5-brca1-for, fwd_seq:
+                     gccatcacacggtttatacaga, rev_name: ex5-brca1-rev, rev_seq:
+                     aggtgtgagaccagtgggagta"
+     gene            <1..>359
+                     /gene="BRCA1"
+     mRNA            <100..>186
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <100..>186
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="WKJ30356.1"
+                     /translation="SLQESTRFSQLVEELLKIICAFQLDTGL"
+ORIGIN      
+        1 aacttatttt watttgttta catgtctttt cttattttag tgtccttaaa aggttgataa
+       61 tcacttgctr agtgtgtttc tcaaacaatt taatttcagg agcctacaag aaagtacgag
+      121 atttagtcaa cttgttgaag agctattgaa aatcatttgt gcttttcagc ttgacacagg
+      181 tttggagtgt aagtgttgaa tatcccaaga atgacactca agtgctgtcc atgaaaactc
+      241 aggaagtttg cacaattact ttctatgacg tggtgataag accttttagt ctaggttaat
+      301 tttagttctg tatctgtaat ctatttttaa aaaattactc ccactggtct cacacctya
+//
+
