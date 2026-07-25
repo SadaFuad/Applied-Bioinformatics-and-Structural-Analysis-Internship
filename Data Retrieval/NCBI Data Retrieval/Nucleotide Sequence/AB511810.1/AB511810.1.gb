@@ -1,0 +1,110 @@
+LOCUS       AB511810                2082 bp    DNA     linear   PRI 06-JAN-2011
+DEFINITION  Homo sapiens TP53 gene for tumor suppressor gene p53, complete cds.
+ACCESSION   AB511810
+VERSION     AB511810.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Kato,T.A., Tsuda,A., Fujimori,A., Uesaka,M., Kamada,T., Tujii,H.
+            and Okayasu,R.
+  TITLE     First extensive in vitro characterizations in cells derived from
+            the chordoma cell line
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2082)
+  AUTHORS   Kato,T.A., Tsuda,A., Fujimori,A., Uesaka,M., Kamada,T., Tujii,H.
+            and Okayasu,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JUL-2009) Contact:Akira Fujimori National Institute
+            of Radiological Sciences, Cellular & Molecular Biology Team,
+            Heavy-Ion Radiobiology Research Group, Center for Charged Particle
+            Therapy; 4-9-1 Anagawa, Inage-ku, Chiba, Chiba 263-8555, Japan
+FEATURES             Location/Qualifiers
+     source          1..2082
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /cell_line="U-CH1"
+                     /cell_type="monolayer"
+                     /tissue_type="chordoma"
+     gene            order(1..196,297..575,676..2082)
+                     /gene="TP53"
+     CDS             join(1..74,175..196,297..575,676..859,960..1072,
+                     1173..1282,1383..1519,1620..1693,1794..1900,2001..2082)
+                     /gene="TP53"
+                     /note="mutant p53"
+                     /codon_start=1
+                     /product="tumor suppressor gene p53"
+                     /protein_id="BAJ52715.1"
+                     /translation="MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLM
+                     LSPDDIEQWFTEDPGPDEAPRMPEAAPXVAPAPAAPTPAAPAPAPSWPLSSSVPSQKT
+                     YQGSYGFRLGFLHSGTAKSVTCTYSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAM
+                     AIYKQSQHMTEVVRRCPHHERCSDSDGLAPPQHLIRVEGNLRVEYLDDRNTFRHSVVV
+                     PYEPPEVGSDCTTIHYNYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRNSFEVRVCA
+                     CPGRDRRTEEENLRKKGEPHHELPPGSTKRALPNNTSSSPQPKKKPLDGEYFTLQIRG
+                     RERFEMFRELNEALELKDAQAGKEPGGSRAHSSHLKSKKGQSTSRHKKLMFKTEGPDS
+                     D"
+     gap             75..174
+                     /estimated_length=unknown
+     gap             197..296
+                     /estimated_length=unknown
+     variation       415
+                     /gene="TP53"
+                     /experiment="heterozygous substitution detection from
+                     direct sequencing"
+                     /note="putative mutation, C/G"
+     gap             576..675
+                     /estimated_length=unknown
+     gap             860..959
+                     /estimated_length=unknown
+     gap             1073..1172
+                     /estimated_length=unknown
+     gap             1283..1382
+                     /estimated_length=unknown
+     gap             1520..1619
+                     /estimated_length=unknown
+     gap             1694..1793
+                     /estimated_length=unknown
+     gap             1901..2000
+                     /estimated_length=unknown
+ORIGIN      
+        1 atggaggagc cgcagtcaga tcctagcgtc gagccccctc tgagtcagga aacattttca
+       61 gacctatgga aactnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      121 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnacttcc
+      181 tgaaaacaac gttctgnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      241 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnntccc
+      301 ccttgccgtc ccaagcaatg gatgatttga tgctgtcccc ggacgatatt gaacaatggt
+      361 tcactgaaga cccaggtcca gatgaagctc ccagaatgcc agaggctgct ccccscgtgg
+      421 cccctgcacc agcagctcct acaccggcgg cccctgcacc agccccctcc tggcccctgt
+      481 catcttctgt cccttcccag aaaacctacc agggcagcta cggtttccgt ctgggcttct
+      541 tgcattctgg gacagccaag tctgtgactt gcacgnnnnn nnnnnnnnnn nnnnnnnnnn
+      601 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      661 nnnnnnnnnn nnnnntactc ccctgccctc aacaagatgt tttgccaact ggccaagacc
+      721 tgccctgtgc agctgtgggt tgattccaca cccccgcccg gcacccgcgt ccgcgccatg
+      781 gccatctaca agcagtcaca gcacatgacg gaggttgtga ggcgctgccc ccaccatgag
+      841 cgctgctcag atagcgatgn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      901 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnng
+      961 tctggcccct cctcagcatc ttatccgagt ggaaggaaat ttgcgtgtgg agtatttgga
+     1021 tgacagaaac acttttcgac atagtgtggt ggtgccctat gagccgcctg agnnnnnnnn
+     1081 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1141 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nngttggctc tgactgtacc accatccact
+     1201 acaactacat gtgtaacagt tcctgcatgg gcggcatgaa ccggaggccc atcctcacca
+     1261 tcatcacact ggaagactcc agnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1321 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1381 nntggtaatc tactgggacg gaacagcttt gaggtgcgtg tttgtgcctg tcctgggaga
+     1441 gaccggcgca cagaggaaga gaatctccgc aagaaagggg agcctcacca cgagctgccc
+     1501 ccagggagca ctaagcgagn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1561 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnc
+     1621 actgcccaac aacaccagct cctctcccca gccaaagaag aaaccactgg atggagaata
+     1681 tttcaccctt cagnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1741 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnatccgtg
+     1801 ggcgtgagcg cttcgagatg ttccgagagc tgaatgaggc cttggaactc aaggatgccc
+     1861 aggctgggaa ggagccaggg gggagcaggg ctcactccag nnnnnnnnnn nnnnnnnnnn
+     1921 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1981 nnnnnnnnnn nnnnnnnnnn ccacctgaag tccaaaaagg gtcagtctac ctcccgccat
+     2041 aaaaaactca tgttcaagac agaagggcct gactcagact ga
+//
+
