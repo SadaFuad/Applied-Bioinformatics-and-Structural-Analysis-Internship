@@ -1,0 +1,4299 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1986-07-21" modified="2026-06-10" version="283" xmlns="http://uniprot.org/uniprot">
+  <accession>P01308</accession>
+  <accession>Q5EEX2</accession>
+  <name>INS_HUMAN</name>
+  <protein>
+    <recommendedName>
+      <fullName>Insulin</fullName>
+    </recommendedName>
+    <component>
+      <recommendedName>
+        <fullName>Insulin B chain</fullName>
+      </recommendedName>
+    </component>
+    <component>
+      <recommendedName>
+        <fullName>Insulin A chain</fullName>
+      </recommendedName>
+    </component>
+  </protein>
+  <gene>
+    <name type="primary">INS</name>
+  </gene>
+  <organism>
+    <name type="scientific">Homo sapiens</name>
+    <name type="common">Human</name>
+    <dbReference type="NCBI Taxonomy" id="9606"/>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Primates</taxon>
+      <taxon>Haplorrhini</taxon>
+      <taxon>Catarrhini</taxon>
+      <taxon>Hominidae</taxon>
+      <taxon>Homo</taxon>
+    </lineage>
+  </organism>
+  <reference key="1">
+    <citation type="journal article" date="1980" name="Nature" volume="284" first="26" last="32">
+      <title>Sequence of the human insulin gene.</title>
+      <authorList>
+        <person name="Bell G.I."/>
+        <person name="Pictet R.L."/>
+        <person name="Rutter W.J."/>
+        <person name="Cordell B."/>
+        <person name="Tischer E."/>
+        <person name="Goodman H.M."/>
+      </authorList>
+      <dbReference type="PubMed" id="6243748"/>
+      <dbReference type="DOI" id="10.1038/284026a0"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="2">
+    <citation type="journal article" date="1980" name="Science" volume="209" first="612" last="615">
+      <title>Genetic variation in the human insulin gene.</title>
+      <authorList>
+        <person name="Ullrich A."/>
+        <person name="Dull T.J."/>
+        <person name="Gray A."/>
+        <person name="Brosius J."/>
+        <person name="Sures I."/>
+      </authorList>
+      <dbReference type="PubMed" id="6248962"/>
+      <dbReference type="DOI" id="10.1126/science.6248962"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="3">
+    <citation type="journal article" date="1979" name="Nature" volume="282" first="525" last="527">
+      <title>Nucleotide sequence of a cDNA clone encoding human preproinsulin.</title>
+      <authorList>
+        <person name="Bell G.I."/>
+        <person name="Swain W.F."/>
+        <person name="Pictet R.L."/>
+        <person name="Cordell B."/>
+        <person name="Goodman H.M."/>
+        <person name="Rutter W.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="503234"/>
+      <dbReference type="DOI" id="10.1038/282525a0"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="4">
+    <citation type="journal article" date="1980" name="Science" volume="208" first="57" last="59">
+      <title>Nucleotide sequence of human preproinsulin complementary DNA.</title>
+      <authorList>
+        <person name="Sures I."/>
+        <person name="Goeddel D.V."/>
+        <person name="Gray A."/>
+        <person name="Ullrich A."/>
+      </authorList>
+      <dbReference type="PubMed" id="6927840"/>
+      <dbReference type="DOI" id="10.1126/science.6927840"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="5">
+    <citation type="journal article" date="1993" name="Nat. Genet." volume="4" first="305" last="310">
+      <title>Susceptibility to insulin dependent diabetes mellitus maps to a 4.1 kb segment of DNA spanning the insulin gene and associated VNTR.</title>
+      <authorList>
+        <person name="Lucassen A.M."/>
+        <person name="Julier C."/>
+        <person name="Beressi J.-P."/>
+        <person name="Boitard C."/>
+        <person name="Froguel P."/>
+        <person name="Lathrop M."/>
+        <person name="Bell J.I."/>
+      </authorList>
+      <dbReference type="PubMed" id="8358440"/>
+      <dbReference type="DOI" id="10.1038/ng0793-305"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="6">
+    <citation type="journal article" date="2004" name="Lancet" volume="363" first="363" last="367">
+      <title>Insulinomas and expression of an insulin splice variant.</title>
+      <authorList>
+        <person name="Minn A.H."/>
+        <person name="Kayton M."/>
+        <person name="Lorang D."/>
+        <person name="Hoffmann S.C."/>
+        <person name="Harlan D.M."/>
+        <person name="Libutti S.K."/>
+        <person name="Shalev A."/>
+      </authorList>
+      <dbReference type="PubMed" id="15070567"/>
+      <dbReference type="DOI" id="10.1016/s0140-6736(04)15438-x"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+  </reference>
+  <reference key="7">
+    <citation type="journal article" date="2003" name="Genome Res." volume="13" first="2101" last="2111">
+      <title>Global haplotype diversity in the human insulin gene region.</title>
+      <authorList>
+        <person name="Stead J.D.H."/>
+        <person name="Hurles M.E."/>
+        <person name="Jeffreys A.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="12952878"/>
+      <dbReference type="DOI" id="10.1101/gr.948003"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+  </reference>
+  <reference key="8">
+    <citation type="submission" date="2004-10" db="EMBL/GenBank/DDBJ databases">
+      <title>Cloning of human full-length CDSs in BD Creator(TM) system donor vector.</title>
+      <authorList>
+        <person name="Kalnine N."/>
+        <person name="Chen X."/>
+        <person name="Rolfs A."/>
+        <person name="Halleck A."/>
+        <person name="Hines L."/>
+        <person name="Eisenstein S."/>
+        <person name="Koundinya M."/>
+        <person name="Raphael J."/>
+        <person name="Moreira D."/>
+        <person name="Kelley T."/>
+        <person name="LaBaer J."/>
+        <person name="Lin Y."/>
+        <person name="Phelan M."/>
+        <person name="Farmer A."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+  </reference>
+  <reference key="9">
+    <citation type="submission" date="2005-07" db="EMBL/GenBank/DDBJ databases">
+      <authorList>
+        <person name="Mural R.J."/>
+        <person name="Istrail S."/>
+        <person name="Sutton G.G."/>
+        <person name="Florea L."/>
+        <person name="Halpern A.L."/>
+        <person name="Mobarry C.M."/>
+        <person name="Lippert R."/>
+        <person name="Walenz B."/>
+        <person name="Shatkay H."/>
+        <person name="Dew I."/>
+        <person name="Miller J.R."/>
+        <person name="Flanigan M.J."/>
+        <person name="Edwards N.J."/>
+        <person name="Bolanos R."/>
+        <person name="Fasulo D."/>
+        <person name="Halldorsson B.V."/>
+        <person name="Hannenhalli S."/>
+        <person name="Turner R."/>
+        <person name="Yooseph S."/>
+        <person name="Lu F."/>
+        <person name="Nusskern D.R."/>
+        <person name="Shue B.C."/>
+        <person name="Zheng X.H."/>
+        <person name="Zhong F."/>
+        <person name="Delcher A.L."/>
+        <person name="Huson D.H."/>
+        <person name="Kravitz S.A."/>
+        <person name="Mouchard L."/>
+        <person name="Reinert K."/>
+        <person name="Remington K.A."/>
+        <person name="Clark A.G."/>
+        <person name="Waterman M.S."/>
+        <person name="Eichler E.E."/>
+        <person name="Adams M.D."/>
+        <person name="Hunkapiller M.W."/>
+        <person name="Myers E.W."/>
+        <person name="Venter J.C."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+  </reference>
+  <reference key="10">
+    <citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+      <title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+      <authorList>
+        <consortium name="The MGC Project Team"/>
+      </authorList>
+      <dbReference type="PubMed" id="15489334"/>
+      <dbReference type="DOI" id="10.1101/gr.2596504"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+    <source>
+      <tissue>Pancreas</tissue>
+    </source>
+  </reference>
+  <reference key="11">
+    <citation type="submission" date="1998-07" db="EMBL/GenBank/DDBJ databases">
+      <title>Description of a novel RFLP diallelic polymorphism (-127 BsgI C/G) within the 5' region of insulin gene.</title>
+      <authorList>
+        <person name="Fajardy I.I."/>
+        <person name="Weill J.J."/>
+        <person name="Stuckens C.C."/>
+        <person name="Danze P.M.P."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1-59</scope>
+    <source>
+      <tissue>Blood</tissue>
+    </source>
+  </reference>
+  <reference key="12">
+    <citation type="journal article" date="1960" name="Nature" volume="187" first="483" last="485">
+      <title>Amino-acid sequence of human insulin.</title>
+      <authorList>
+        <person name="Nicol D.S.H.W."/>
+        <person name="Smith L.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="14426955"/>
+      <dbReference type="DOI" id="10.1038/187483a0"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 25-54 AND 90-110</scope>
+  </reference>
+  <reference key="13">
+    <citation type="journal article" date="1971" name="J. Biol. Chem." volume="246" first="1375" last="1386">
+      <title>Studies on human proinsulin. Isolation and amino acid sequence of the human pancreatic C-peptide.</title>
+      <authorList>
+        <person name="Oyer P.E."/>
+        <person name="Cho S."/>
+        <person name="Peterson J.D."/>
+        <person name="Steiner D.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="5101771"/>
+      <dbReference type="DOI" id="10.1016/s0021-9258(19)76984-1"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 57-87</scope>
+  </reference>
+  <reference key="14">
+    <citation type="journal article" date="1971" name="Eur. J. Biochem." volume="20" first="190" last="199">
+      <title>The amino acid sequence of the C-peptide of human proinsulin.</title>
+      <authorList>
+        <person name="Ko A."/>
+        <person name="Smyth D.G."/>
+        <person name="Markussen J."/>
+        <person name="Sundby F."/>
+      </authorList>
+      <dbReference type="PubMed" id="5560404"/>
+      <dbReference type="DOI" id="10.1111/j.1432-1033.1971.tb01378.x"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 57-87</scope>
+  </reference>
+  <reference key="15">
+    <citation type="journal article" date="1974" name="Helv. Chim. Acta" volume="57" first="2617" last="2621">
+      <title>Total synthesis of human insulin under directed formation of the disulfide bonds.</title>
+      <authorList>
+        <person name="Sieber P."/>
+        <person name="Kamber B."/>
+        <person name="Hartmann A."/>
+        <person name="Joehl A."/>
+        <person name="Riniker B."/>
+        <person name="Rittel W."/>
+      </authorList>
+      <dbReference type="PubMed" id="4443293"/>
+      <dbReference type="DOI" id="10.1002/hlca.19740570839"/>
+    </citation>
+    <scope>SYNTHESIS</scope>
+  </reference>
+  <reference key="16">
+    <citation type="journal article" date="1973" name="Hoppe-Seyler's Z. Physiol. Chem." volume="354" first="659" last="672">
+      <title>Studies on polypeptides, IV. The synthesis of C-peptide of human proinsulin.</title>
+      <authorList>
+        <person name="Naithani V.K."/>
+      </authorList>
+      <dbReference type="PubMed" id="4803504"/>
+      <dbReference type="DOI" id="10.1515/bchm2.1973.354.1.659"/>
+    </citation>
+    <scope>SYNTHESIS OF 57-87</scope>
+  </reference>
+  <reference key="17">
+    <citation type="journal article" date="1973" name="Chem. Ber." volume="106" first="199" last="205">
+      <title>Synthesis of peptides with the properties of human proinsulin C peptides (hC peptide). 3. Synthesis of the sequences 14-17 and 9-13 of human proinsulin C peptides.</title>
+      <authorList>
+        <person name="Geiger R."/>
+        <person name="Volk A."/>
+      </authorList>
+      <dbReference type="PubMed" id="4698555"/>
+      <dbReference type="DOI" id="10.1002/cber.19731060124"/>
+    </citation>
+    <scope>SYNTHESIS OF 65-69 AND 70-73</scope>
+  </reference>
+  <reference key="18">
+    <citation type="journal article" date="1973" name="Chem. Ber." volume="106" first="188" last="192">
+      <title>Synthesis of peptides with the properties of human proinsulin C peptides (hC peptide). I. Scheme for the synthesis and preparation of the sequence 28-31 of human proinsulin C peptide.</title>
+      <authorList>
+        <person name="Geiger R."/>
+        <person name="Jaeger G."/>
+        <person name="Keonig W."/>
+        <person name="Treuth G."/>
+      </authorList>
+      <dbReference type="PubMed" id="4698553"/>
+      <dbReference type="DOI" id="10.1002/cber.19731060122"/>
+    </citation>
+    <scope>SYNTHESIS OF 84-87</scope>
+  </reference>
+  <reference key="19">
+    <citation type="journal article" date="2022" name="Cell Death Dis." volume="13" first="911" last="911">
+      <title>Desmoglein-2 is important for islet function and beta-cell survival.</title>
+      <authorList>
+        <person name="Myo Min K.K."/>
+        <person name="Rojas-Canales D."/>
+        <person name="Penko D."/>
+        <person name="DeNichilo M."/>
+        <person name="Cockshell M.P."/>
+        <person name="Ffrench C.B."/>
+        <person name="Thompson E.J."/>
+        <person name="Asplund O."/>
+        <person name="Drogemuller C.J."/>
+        <person name="Prasad R.B."/>
+        <person name="Groop L."/>
+        <person name="Grey S.T."/>
+        <person name="Thomas H.E."/>
+        <person name="Loudovaris T."/>
+        <person name="Kay T.W."/>
+        <person name="Mahoney M.G."/>
+        <person name="Jessup C.F."/>
+        <person name="Coates P.T."/>
+        <person name="Bonder C.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="36309486"/>
+      <dbReference type="DOI" id="10.1038/s41419-022-05326-2"/>
+    </citation>
+    <scope>SUBCELLULAR LOCATION</scope>
+    <scope>TISSUE SPECIFICITY</scope>
+  </reference>
+  <reference key="20">
+    <citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="6366" last="6370">
+      <title>Studies on mutant human insulin genes: identification and sequence analysis of a gene encoding [SerB24]insulin.</title>
+      <authorList>
+        <person name="Haneda M."/>
+        <person name="Chan S.J."/>
+        <person name="Kwok S.C.M."/>
+        <person name="Rubenstein A.H."/>
+        <person name="Steiner D.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="6312455"/>
+      <dbReference type="DOI" id="10.1073/pnas.80.20.6366"/>
+    </citation>
+    <scope>VARIANT HPRI SER-48</scope>
+  </reference>
+  <reference key="21">
+    <citation type="journal article" date="1983" name="Proc. Natl. Acad. Sci. U.S.A." volume="80" first="7390" last="7394">
+      <title>Identification of a mutant human insulin predicted to contain a serine-for-phenylalanine substitution.</title>
+      <authorList>
+        <person name="Shoelson S."/>
+        <person name="Fickova M."/>
+        <person name="Haneda M."/>
+        <person name="Nahum A."/>
+        <person name="Musso G."/>
+        <person name="Kaiser E.T."/>
+        <person name="Rubenstein A.H."/>
+        <person name="Tager H."/>
+      </authorList>
+      <dbReference type="PubMed" id="6424111"/>
+      <dbReference type="DOI" id="10.1073/pnas.80.24.7390"/>
+    </citation>
+    <scope>VARIANT HPRI SER-48</scope>
+    <scope>VARIANT LEU-49</scope>
+  </reference>
+  <reference key="22">
+    <citation type="journal article" date="1987" name="Proc. Natl. Acad. Sci. U.S.A." volume="84" first="2194" last="2197">
+      <title>A mutation in the B chain coding region is associated with impaired proinsulin conversion in a family with hyperproinsulinemia.</title>
+      <authorList>
+        <person name="Chan S.J."/>
+        <person name="Seino S."/>
+        <person name="Gruppuso P.A."/>
+        <person name="Schwartz R."/>
+        <person name="Steiner D.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="3470784"/>
+      <dbReference type="DOI" id="10.1073/pnas.84.8.2194"/>
+    </citation>
+    <scope>VARIANT HPRI ASP-34</scope>
+  </reference>
+  <reference key="23">
+    <citation type="journal article" date="1986" name="J. Clin. Invest." volume="78" first="1666" last="1672">
+      <title>Structurally abnormal insulin in a diabetic patient. Characterization of the mutant insulin A3 (Val--&gt;Leu) isolated from the pancreas.</title>
+      <authorList>
+        <person name="Sakura H."/>
+        <person name="Iwamoto Y."/>
+        <person name="Sakamoto Y."/>
+        <person name="Kuzuya T."/>
+        <person name="Hirata H."/>
+      </authorList>
+      <dbReference type="PubMed" id="3537011"/>
+      <dbReference type="DOI" id="10.1172/jci112760"/>
+    </citation>
+    <scope>VARIANT WAKAYAMA LEU-92</scope>
+  </reference>
+  <reference key="24">
+    <citation type="journal article" date="1990" name="J. Clin. Endocrinol. Metab." volume="71" first="164" last="169">
+      <title>Two unrelated patients with familial hyperproinsulinemia due to a mutation substituting histidine for arginine at position 65 in the proinsulin molecule: identification of the mutation by direct sequencing of genomic deoxyribonucleic acid amplified by polymerase chain reaction.</title>
+      <authorList>
+        <person name="Barbetti F."/>
+        <person name="Raben N."/>
+        <person name="Kadowaki T."/>
+        <person name="Cama A."/>
+        <person name="Accili D."/>
+        <person name="Gabbay K.H."/>
+        <person name="Merenich J.A."/>
+        <person name="Taylor S.I."/>
+        <person name="Roth J."/>
+      </authorList>
+      <dbReference type="PubMed" id="2196279"/>
+      <dbReference type="DOI" id="10.1210/jcem-71-1-164"/>
+    </citation>
+    <scope>VARIANT HPRI HIS-89</scope>
+  </reference>
+  <reference key="25">
+    <citation type="journal article" date="1985" name="J. Clin. Invest." volume="76" first="378" last="380">
+      <title>Posttranslational cleavage of proinsulin is blocked by a point mutation in familial hyperproinsulinemia.</title>
+      <authorList>
+        <person name="Shibasaki Y."/>
+        <person name="Kawakami T."/>
+        <person name="Kanazawa Y."/>
+        <person name="Akanuma Y."/>
+        <person name="Takaku F."/>
+      </authorList>
+      <dbReference type="PubMed" id="4019786"/>
+      <dbReference type="DOI" id="10.1172/jci111973"/>
+    </citation>
+    <scope>VARIANT HPRI HIS-89</scope>
+  </reference>
+  <reference key="26">
+    <citation type="journal article" date="1992" name="J. Clin. Invest." volume="89" first="1902" last="1907">
+      <title>A novel point mutation in the human insulin gene giving rise to hyperproinsulinemia (proinsulin Kyoto).</title>
+      <authorList>
+        <person name="Yano H."/>
+        <person name="Kitano N."/>
+        <person name="Morimoto M."/>
+        <person name="Polonsky K.S."/>
+        <person name="Imura H."/>
+        <person name="Seino Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="1601997"/>
+      <dbReference type="DOI" id="10.1172/jci115795"/>
+    </citation>
+    <scope>VARIANT HPRI LEU-89</scope>
+  </reference>
+  <reference key="27">
+    <citation type="journal article" date="1990" name="Biochemistry" volume="29" first="10545" last="10555">
+      <title>Toward the solution structure of human insulin: sequential 2D 1H NMR assignment of a des-pentapeptide analogue and comparison with crystal structure.</title>
+      <authorList>
+        <person name="Hua Q.-X."/>
+        <person name="Weiss M.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="2271664"/>
+      <dbReference type="DOI" id="10.1021/bi00498a018"/>
+    </citation>
+    <scope>STRUCTURE BY NMR</scope>
+  </reference>
+  <reference key="28">
+    <citation type="journal article" date="1991" name="Biochemistry" volume="30" first="5505" last="5515">
+      <title>Comparative 2D NMR studies of human insulin and des-pentapeptide insulin: sequential resonance assignment and implications for protein dynamics and receptor recognition.</title>
+      <authorList>
+        <person name="Hua Q.-X."/>
+        <person name="Weiss M.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="2036420"/>
+      <dbReference type="DOI" id="10.1021/bi00236a025"/>
+    </citation>
+    <scope>STRUCTURE BY NMR</scope>
+  </reference>
+  <reference key="29">
+    <citation type="journal article" date="1991" name="Biochim. Biophys. Acta" volume="1078" first="101" last="110">
+      <title>Two-dimensional NMR studies of Des-(B26-B30)-insulin: sequence-specific resonance assignments and effects of solvent composition.</title>
+      <authorList>
+        <person name="Hua Q.-X."/>
+        <person name="Weiss M.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="1646635"/>
+      <dbReference type="DOI" id="10.1016/0167-4838(91)90098-k"/>
+    </citation>
+    <scope>STRUCTURE BY NMR</scope>
+  </reference>
+  <reference key="30">
+    <citation type="journal article" date="1992" name="J. Mol. Biol." volume="227" first="1146" last="1163">
+      <title>Three-dimensional solution structure of an insulin dimer. A study of the B9(Asp) mutant of human insulin using nuclear magnetic resonance, distance geometry and restrained molecular dynamics.</title>
+      <authorList>
+        <person name="Joergensen A.M.M."/>
+        <person name="Kristensen S.M."/>
+        <person name="Led J.J."/>
+        <person name="Balschmidt P."/>
+      </authorList>
+      <dbReference type="PubMed" id="1433291"/>
+      <dbReference type="DOI" id="10.1016/0022-2836(92)90527-q"/>
+    </citation>
+    <scope>STRUCTURE BY NMR OF 90-110 AND 25-54</scope>
+    <scope>DISULFIDE BONDS</scope>
+  </reference>
+  <reference key="31">
+    <citation type="journal article" date="1993" name="Proc. Natl. Acad. Sci. U.S.A." volume="90" first="582" last="586">
+      <title>Paradoxical structure and function in a mutant human insulin associated with diabetes mellitus.</title>
+      <authorList>
+        <person name="Hua Q.-X."/>
+        <person name="Shoelson S.E."/>
+        <person name="Inouye K."/>
+        <person name="Weiss M.A."/>
+      </authorList>
+      <dbReference type="PubMed" id="8421693"/>
+      <dbReference type="DOI" id="10.1073/pnas.90.2.582"/>
+    </citation>
+    <scope>STRUCTURE BY NMR OF 90-110 AND 25-54 OF VARIANT HPRI SER-48</scope>
+    <scope>DISULFIDE BONDS</scope>
+  </reference>
+  <reference key="32">
+    <citation type="journal article" date="1997" name="Biochemistry" volume="36" first="9409" last="9422">
+      <title>Solution structures of the R6 human insulin hexamer.</title>
+      <authorList>
+        <person name="Chang X."/>
+        <person name="Joergensen A.M."/>
+        <person name="Bardrum P."/>
+        <person name="Led J.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="9235985"/>
+      <dbReference type="DOI" id="10.1021/bi9631069"/>
+    </citation>
+    <scope>STRUCTURE BY NMR OF 90-110 AND 25-54</scope>
+    <scope>DISULFIDE BONDS</scope>
+  </reference>
+  <reference key="33">
+    <citation type="journal article" date="2007" name="Proc. Natl. Acad. Sci. U.S.A." volume="104" first="15040" last="15044">
+      <title>Insulin gene mutations as a cause of permanent neonatal diabetes.</title>
+      <authorList>
+        <person name="Stoy J."/>
+        <person name="Edghill E.L."/>
+        <person name="Flanagan S.E."/>
+        <person name="Ye H."/>
+        <person name="Paz V.P."/>
+        <person name="Pluzhnikov A."/>
+        <person name="Below J.E."/>
+        <person name="Hayes M.G."/>
+        <person name="Cox N.J."/>
+        <person name="Lipkind G.M."/>
+        <person name="Lipton R.B."/>
+        <person name="Greeley S.A."/>
+        <person name="Patch A.M."/>
+        <person name="Ellard S."/>
+        <person name="Steiner D.F."/>
+        <person name="Hattersley A.T."/>
+        <person name="Philipson L.H."/>
+        <person name="Bell G.I."/>
+      </authorList>
+      <dbReference type="PubMed" id="17855560"/>
+      <dbReference type="DOI" id="10.1073/pnas.0707291104"/>
+    </citation>
+    <scope>VARIANTS PNDM4 ASP-24; ARG-32; SER-32; GLY-43; VAL-47; CYS-48; CYS-89; CYS-90; TYR-96 AND CYS-108</scope>
+  </reference>
+  <reference key="34">
+    <citation type="journal article" date="2008" name="Diabetes" volume="57" first="1034" last="1042">
+      <title>Insulin mutation screening in 1,044 patients with diabetes: mutations in the INS gene are a common cause of neonatal diabetes but a rare cause of diabetes diagnosed in childhood or adulthood.</title>
+      <authorList>
+        <person name="Edghill E.L."/>
+        <person name="Flanagan S.E."/>
+        <person name="Patch A.M."/>
+        <person name="Boustred C."/>
+        <person name="Parrish A."/>
+        <person name="Shields B."/>
+        <person name="Shepherd M.H."/>
+        <person name="Hussain K."/>
+        <person name="Kapoor R.R."/>
+        <person name="Malecki M."/>
+        <person name="MacDonald M.J."/>
+        <person name="Stoy J."/>
+        <person name="Steiner D.F."/>
+        <person name="Philipson L.H."/>
+        <person name="Bell G.I."/>
+        <person name="Hattersley A.T."/>
+        <person name="Ellard S."/>
+      </authorList>
+      <dbReference type="PubMed" id="18162506"/>
+      <dbReference type="DOI" id="10.2337/db07-1405"/>
+    </citation>
+    <scope>VARIANTS PNDM4 ASP-24; ASP-29; ARG-32; SER-32; PRO-35; GLY-43; VAL-47; CYS-48; ARG-84; CYS-89; CYS-90; SER-96; TYR-96; CYS-101; CYS-103 AND CYS-108</scope>
+    <scope>VARIANT MODY10 CYS-6</scope>
+    <scope>VARIANT MET-68</scope>
+  </reference>
+  <reference key="35">
+    <citation type="journal article" date="2008" name="Diabetes" volume="57" first="1131" last="1135">
+      <title>Mutations in the insulin gene can cause MODY and autoantibody-negative type 1 diabetes.</title>
+      <authorList>
+        <person name="Molven A."/>
+        <person name="Ringdal M."/>
+        <person name="Nordbo A.M."/>
+        <person name="Raeder H."/>
+        <person name="Stoy J."/>
+        <person name="Lipkind G.M."/>
+        <person name="Steiner D.F."/>
+        <person name="Philipson L.H."/>
+        <person name="Bergmann I."/>
+        <person name="Aarskog D."/>
+        <person name="Undlien D.E."/>
+        <person name="Joner G."/>
+        <person name="Sovik O."/>
+        <person name="Bell G.I."/>
+        <person name="Njolstad P.R."/>
+      </authorList>
+      <dbReference type="PubMed" id="18192540"/>
+      <dbReference type="DOI" id="10.2337/db07-1467"/>
+    </citation>
+    <scope>VARIANT MODY10 GLN-46</scope>
+    <scope>VARIANT T1D2 CYS-55</scope>
+  </reference>
+  <reference key="36">
+    <citation type="journal article" date="2010" name="BMC Med. Genet." volume="11" first="42" last="42">
+      <title>Further evidence that mutations in INS can be a rare cause of Maturity-Onset Diabetes of the Young (MODY).</title>
+      <authorList>
+        <person name="Boesgaard T.W."/>
+        <person name="Pruhova S."/>
+        <person name="Andersson E.A."/>
+        <person name="Cinek O."/>
+        <person name="Obermannova B."/>
+        <person name="Lauenborg J."/>
+        <person name="Damm P."/>
+        <person name="Bergholdt R."/>
+        <person name="Pociot F."/>
+        <person name="Pisinger C."/>
+        <person name="Barbetti F."/>
+        <person name="Lebl J."/>
+        <person name="Pedersen O."/>
+        <person name="Hansen T."/>
+      </authorList>
+      <dbReference type="PubMed" id="20226046"/>
+      <dbReference type="DOI" id="10.1186/1471-2350-11-42"/>
+    </citation>
+    <scope>VARIANTS MODY10 HIS-6 AND GLN-46</scope>
+  </reference>
+  <reference key="37">
+    <citation type="journal article" date="2014" name="PLoS ONE" volume="9" first="E112883" last="E112883">
+      <title>Structural and functional study of the GlnB22-insulin mutant responsible for maturity-onset diabetes of the young.</title>
+      <authorList>
+        <person name="Krizkova K."/>
+        <person name="Veverka V."/>
+        <person name="Maletinska L."/>
+        <person name="Hexnerova R."/>
+        <person name="Brzozowski A.M."/>
+        <person name="Jiracek J."/>
+        <person name="Zakova L."/>
+      </authorList>
+      <dbReference type="PubMed" id="25423173"/>
+      <dbReference type="DOI" id="10.1371/journal.pone.0112883"/>
+    </citation>
+    <scope>VARIANT MODY10 GLN-46</scope>
+    <scope>CHARACTERIZATION OF VARIANT MODY10 GLN-46</scope>
+    <scope>STRUCTURE BY NMR OF 90-110 AND 25-54</scope>
+    <scope>DISULFIDE BONDS OF VARIANT MODY10 GLN-46</scope>
+    <scope>SUBUNIT</scope>
+  </reference>
+  <comment type="function">
+    <text>Insulin decreases blood glucose concentration. It increases cell permeability to monosaccharides, amino acids and fatty acids. It accelerates glycolysis, the pentose phosphate cycle, and glycogen synthesis in liver.</text>
+  </comment>
+  <comment type="subunit">
+    <text evidence="9">Heterodimer of a B chain and an A chain linked by two disulfide bonds (PubMed:25423173).</text>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-10173507">
+      <id>Q6UY14-3</id>
+      <label>ADAMTSL4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-3867333">
+      <id>A8MQ03</id>
+      <label>CYSRT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-15607031">
+      <id>P14735-1</id>
+      <label>IDE</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+      <label>INS</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>19</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-9984921">
+      <id>P06213-2</id>
+      <label>INSR</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>6</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-11959885">
+      <id>Q07627</id>
+      <label>KRTAP1-1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-11749135">
+      <id>Q8IUG1</id>
+      <label>KRTAP1-3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-7090529">
+      <id>P01308</id>
+    </interactant>
+    <interactant intactId="EBI-22310682">
+      <id>P0DPK4</id>
+      <label>NOTCH2NLC</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-20765227">
+      <id>PRO_0000015820</id>
+    </interactant>
+    <interactant intactId="EBI-351896">
+      <id>P11142</id>
+      <label>HSPA8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>2</experiments>
+  </comment>
+  <comment type="subcellular location">
+    <subcellularLocation>
+      <location evidence="12">Secreted</location>
+    </subcellularLocation>
+  </comment>
+  <comment type="alternative products">
+    <event type="alternative splicing"/>
+    <isoform>
+      <id>P01308-1</id>
+      <name>1</name>
+      <sequence type="displayed"/>
+    </isoform>
+    <isoform>
+      <id>F8WCM5-1</id>
+      <name>2</name>
+      <name>INS-IGF2</name>
+      <sequence type="external"/>
+    </isoform>
+  </comment>
+  <comment type="tissue specificity">
+    <text evidence="12">Expressed by pancreatic beta-cells (at protein level).</text>
+  </comment>
+  <comment type="disease" evidence="3 8 10 13 15 16 17">
+    <disease id="DI-01585">
+      <name>Hyperproinsulinemia</name>
+      <acronym>HPRI</acronym>
+      <description>An autosomal dominant condition characterized by elevated levels of serum proinsulin-like material.</description>
+      <dbReference type="MIM" id="616214"/>
+    </disease>
+    <text>The disease is caused by variants affecting the gene represented in this entry.</text>
+  </comment>
+  <comment type="disease" evidence="6">
+    <disease id="DI-02788">
+      <name>Type 1 diabetes mellitus 2</name>
+      <acronym>T1D2</acronym>
+      <description>A multifactorial disorder of glucose homeostasis that is characterized by susceptibility to ketoacidosis in the absence of insulin therapy. Clinical features are polydipsia, polyphagia and polyuria which result from hyperglycemia-induced osmotic diuresis and secondary thirst. These derangements result in long-term complications that affect the eyes, kidneys, nerves, and blood vessels.</description>
+      <dbReference type="MIM" id="125852"/>
+    </disease>
+    <text>The disease is caused by variants affecting the gene represented in this entry.</text>
+  </comment>
+  <comment type="disease" evidence="4 5">
+    <disease id="DI-05825">
+      <name>Diabetes mellitus, permanent neonatal, 4</name>
+      <acronym>PNDM4</acronym>
+      <description>A form of permanent neonatal diabetes mellitus, a type of diabetes characterized by onset of persistent hyperglycemia within the first six months of life. Initial clinical manifestations include intrauterine growth retardation, hyperglycemia, glycosuria, osmotic polyuria, severe dehydration, and failure to thrive. PNDM4 transmission pattern is consistent with autosomal dominant or autosomal recessive inheritance.</description>
+      <dbReference type="MIM" id="618858"/>
+    </disease>
+    <text>The disease is caused by variants affecting the gene represented in this entry.</text>
+  </comment>
+  <comment type="disease" evidence="5 6 7 9">
+    <disease id="DI-02786">
+      <name>Maturity-onset diabetes of the young 10</name>
+      <acronym>MODY10</acronym>
+      <description>A form of diabetes that is characterized by an autosomal dominant mode of inheritance, onset in childhood or early adulthood (usually before 25 years of age), a primary defect in insulin secretion and frequent insulin-independence at the beginning of the disease.</description>
+      <dbReference type="MIM" id="613370"/>
+    </disease>
+    <text>The disease is caused by variants affecting the gene represented in this entry.</text>
+  </comment>
+  <comment type="pharmaceutical">
+    <text>Available under the names Humulin or Humalog (Eli Lilly) and Novolin (Novo Nordisk). Used in the treatment of diabetes. Humalog is an insulin analog with 52-Lys-Pro-53 instead of 52-Pro-Lys-53.</text>
+  </comment>
+  <comment type="similarity">
+    <text evidence="19">Belongs to the insulin family.</text>
+  </comment>
+  <comment type="sequence caution" evidence="19">
+    <conflict type="erroneous gene model prediction">
+      <sequence resource="EMBL-CDS" id="AAA59179" version="1"/>
+    </conflict>
+  </comment>
+  <comment type="online information" name="Protein Spotlight">
+    <link uri="https://www.proteinspotlight.org/back_issues/009"/>
+    <text>Protein of the 20th century - Issue 9 of April 2001</text>
+  </comment>
+  <comment type="online information" name="Wikipedia">
+    <link uri="https://en.wikipedia.org/wiki/Insulin"/>
+    <text>Insulin entry</text>
+  </comment>
+  <dbReference type="EMBL" id="V00565">
+    <property type="protein sequence ID" value="CAA23828.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="M10039">
+    <property type="protein sequence ID" value="AAA59173.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="J00265">
+    <property type="protein sequence ID" value="AAA59172.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="X70508">
+    <property type="protein sequence ID" value="CAA49913.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L15440">
+    <property type="protein sequence ID" value="AAA59179.1"/>
+    <property type="status" value="ALT_SEQ"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AY899304">
+    <property type="protein sequence ID" value="AAW83741.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AY138590">
+    <property type="protein sequence ID" value="AAN39451.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BT006808">
+    <property type="protein sequence ID" value="AAP35454.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471158">
+    <property type="protein sequence ID" value="EAX02488.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC005255">
+    <property type="protein sequence ID" value="AAH05255.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AJ009655">
+    <property type="protein sequence ID" value="CAA08766.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS7729.1">
+    <molecule id="P01308-1"/>
+  </dbReference>
+  <dbReference type="PIR" id="A93222">
+    <property type="entry name" value="IPHU"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_000198.1">
+    <molecule id="P01308-1"/>
+    <property type="nucleotide sequence ID" value="NM_000207.3"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001172026.1">
+    <molecule id="P01308-1"/>
+    <property type="nucleotide sequence ID" value="NM_001185097.2"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001172027.1">
+    <molecule id="P01308-1"/>
+    <property type="nucleotide sequence ID" value="NM_001185098.2"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001278826.1">
+    <molecule id="P01308-1"/>
+    <property type="nucleotide sequence ID" value="NM_001291897.2"/>
+  </dbReference>
+  <dbReference type="PDB" id="1A7F">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1AI0">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1AIY">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1B9E">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1BEN">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1EFE">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-54, A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="1EV3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.78 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1EV6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1EVR">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1FU2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.24 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1FUB">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.09 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1G7A">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.20 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1G7B">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.30 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1GUJ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.62 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HIQ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HIS">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-49"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HIT">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HLS">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HTV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-51"/>
+  </dbReference>
+  <dbReference type="PDB" id="1HUI">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=26-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1IOG">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1IOH">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1J73">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1JCA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1JCO">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1JK8">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.40 A"/>
+    <property type="chains" value="C=35-47"/>
+  </dbReference>
+  <dbReference type="PDB" id="1K3M">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1KMF">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1LKQ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1LPH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1MHI">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1MHJ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1MSO">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1OS3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.95 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1OS4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.25 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1Q4V">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1QIY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1QIZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1QJ0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.40 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1RWE">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SF1">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SJT">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-51"/>
+  </dbReference>
+  <dbReference type="PDB" id="1SJU">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="1T0C">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=57-87"/>
+  </dbReference>
+  <dbReference type="PDB" id="1T1K">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1T1P">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1T1Q">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1TRZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1TYL">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1TYM">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1UZ9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1VKT">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1W8P">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.08 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1XDA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="1XGL">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1XW7">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1ZEG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1ZEH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="1ZNJ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2AIY">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2C8Q">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.95 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="2C8R">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="2CEU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-49"/>
+  </dbReference>
+  <dbReference type="PDB" id="2G54">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.25 A"/>
+    <property type="chains" value="C/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2G56">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="C/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2H67">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HH4">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HHO">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2HIU">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JMN">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JUM">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JUU">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JUV">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JV1">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2JZQ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-54, A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="2K91">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2K9R">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2KJJ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2KJU">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2KQP">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="2KQQ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2KXK">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2L1Y">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2L1Z">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2LGB">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-55"/>
+  </dbReference>
+  <dbReference type="PDB" id="2LWZ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-54, A=89-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M1D">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M1E">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M2M">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M2N">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M2O">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2M2P">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MLI">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MPG">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MPI">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MVC">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MVD">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2N2V">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2N2W">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2N2X">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OLY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OLZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OM0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.05 A"/>
+    <property type="chains" value="1/3/A/C/E/G/I/K/Q/S/U/X/a/c/e/g/i/k=90-110, 2/4/B/D/F/H/J/L/R/T/V/Y/b/d/f/h/j/l=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OM1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.97 A"/>
+    <property type="chains" value="1/3/A/C/E/G/I/K/Q/S/U/X/a/c/e/g/i/k=90-110, 2/4/B/D/F/H/J/L/R/T/V/Y/b/d/f/h/j/l=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OMG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.52 A"/>
+    <property type="chains" value="A/C/E=90-110, B/D/F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OMH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.36 A"/>
+    <property type="chains" value="A/C/E=90-110, B/D/F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OMI">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.24 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2OMQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/B/C/D=36-41"/>
+  </dbReference>
+  <dbReference type="PDB" id="2QIU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=89-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2R34">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.25 A"/>
+    <property type="chains" value="A/C=89-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2R35">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.08 A"/>
+    <property type="chains" value="A/C=89-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2R36">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=89-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2RN5">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2VJZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2VK0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2W44">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C/E=94-110, B/D/F=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WBY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="C/E=90-109, D/F=25-43"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WC0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.80 A"/>
+    <property type="chains" value="C/E=90-110, D/F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WRU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.57 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WRV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.15 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WRW">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.41 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WRX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WS0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.10 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WS1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WS4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WS6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="2WS7">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.59 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="3AIY">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3BXQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.30 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3E7Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="3E7Z">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="3EXX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.35 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3FQ9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.35 A"/>
+    <property type="chains" value="A/C=91-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3HYD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.00 A"/>
+    <property type="chains" value="A=35-41"/>
+  </dbReference>
+  <dbReference type="PDB" id="3I3Z">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3I40">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.85 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ILG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3INC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.85 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3IR0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C/E/G/I/K/M/O/R/T/V/X=90-110, B/D/F/H/J/L/N/P/S/U/W/Y=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3JSD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3KQ6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3P2X">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3P33">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3Q6E">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.05 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ROV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3TT8">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.12 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3U4N">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.98 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="3UTQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.67 A"/>
+    <property type="chains" value="C=15-24"/>
+  </dbReference>
+  <dbReference type="PDB" id="3UTS">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.71 A"/>
+    <property type="chains" value="C/H=15-24"/>
+  </dbReference>
+  <dbReference type="PDB" id="3UTT">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="C/H=15-24"/>
+  </dbReference>
+  <dbReference type="PDB" id="3V19">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3V1G">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W11">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.90 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W12">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="4.30 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W13">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="4.30 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W7Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="0.92 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W7Z">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.15 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3W80">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ZI3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ZQR">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ZS2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.97 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="3ZU1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4AIY">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4AJX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.20 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4AJZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4AK0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.28 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4AKJ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.01 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4CXL">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4CXN">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4CY7">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EFX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.98 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-52"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EWW">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EWX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EWZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.79 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EX0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.86 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EX1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.66 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EXX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.55 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EY1">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.47 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EY9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.47 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EYD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.47 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EYN">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.53 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4EYP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.59 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F0N">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.68 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F0O">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.67 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1A">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1B">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.59 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1C">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1D">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1F">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.68 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F1G">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F4T">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F4V">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F51">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4F8F">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.68 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4FG3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4FKA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.08 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4GBC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.78 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4GBI">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4GBK">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.40 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4GBL">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4GBN">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.87 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4IUZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4IYD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.66 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4IYF">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="4NIB">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4OGA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.50 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4P65">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4RXW">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.73 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4UNE">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.59 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4UNG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.81 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4UNH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.75 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4WDI">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.31 A"/>
+    <property type="chains" value="C/F=39-47"/>
+  </dbReference>
+  <dbReference type="PDB" id="4XC4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="4Y19">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="C=75-90"/>
+  </dbReference>
+  <dbReference type="PDB" id="4Y1A">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="4.00 A"/>
+    <property type="chains" value="C=75-90"/>
+  </dbReference>
+  <dbReference type="PDB" id="4Z76">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.88 A"/>
+    <property type="chains" value="C/F=39-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="4Z77">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.85 A"/>
+    <property type="chains" value="C/F=39-47"/>
+  </dbReference>
+  <dbReference type="PDB" id="4Z78">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="C/F/I=39-48"/>
+  </dbReference>
+  <dbReference type="PDB" id="5AIY">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5BOQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5BPO">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5BQQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.54 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="5BTS">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.77 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5C0D">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.68 A"/>
+    <property type="chains" value="C=15-24"/>
+  </dbReference>
+  <dbReference type="PDB" id="5CJO">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.29 A"/>
+    <property type="chains" value="a=90-109"/>
+  </dbReference>
+  <dbReference type="PDB" id="5CNY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5CO2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5CO6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5CO9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.92 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5E7W">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="0.95 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5EMS">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-52"/>
+  </dbReference>
+  <dbReference type="PDB" id="5EN9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5ENA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.35 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5HPR">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.33 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5HPU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5HQI">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="0.97 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5HRQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.28 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5HYJ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.06 A"/>
+    <property type="chains" value="C/H=15-24"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MAM">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="0/2/4/A/C/E/G/I/K/M/O/Q/S/U/W/Y=90-110, 1/3/5/B/D/F/H/J/L/N/P/R/T/V/X/Z=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MHD">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-55"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MT3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.02 A"/>
+    <property type="chains" value="A/C/E/G/I/K/M/O/Q/S/U/W/Y/a/c/e=90-110, B/D/F/H/J/L/N/P/R/T/V/X/Z/b/d/f=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MT9">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.88 A"/>
+    <property type="chains" value="A/C/E/G/I/K/M/O/Q/S/U/W/Y/a/c/e=90-110, B/D/F/H/J/L/N/P/R/T/V/X/Z/b/d/f=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5MWQ">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-56"/>
+  </dbReference>
+  <dbReference type="PDB" id="5T7R">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.55 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UDP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.35 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UOZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.17 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UQA">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.31 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5URT">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.18 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5URU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.41 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5USP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.17 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5USS">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.06 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5USV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.30 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UU2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.22 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UU3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.25 A"/>
+    <property type="chains" value="A/C/E/G/I/K/M/O/Q/S/U/W=90-110, B/D/F/H/J/L/N/P/R/T/V/X=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5UU4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.97 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="5VIZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="5WBT">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-54, A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="5WDM">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.80 A"/>
+    <property type="chains" value="A/B/C/D/E/F=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="5WOB">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.95 A"/>
+    <property type="chains" value="a/b/c/d/e/f/g/h=90-109"/>
+  </dbReference>
+  <dbReference type="PDB" id="6B3Q">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.70 A"/>
+    <property type="chains" value="a/b=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6B70">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.70 A"/>
+    <property type="chains" value="a/c=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6BFC">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.70 A"/>
+    <property type="chains" value="a/b=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6CE7">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="7.40 A"/>
+    <property type="chains" value="N=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6CE9">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.30 A"/>
+    <property type="chains" value="K/N=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6CEB">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.70 A"/>
+    <property type="chains" value="K/N=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6CK2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.25 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6GNQ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="A/C/E/G/I/K/M/O/Q/S/U/W=90-110, B/D/F/H/J/L/N/P/R/T/V/X=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6GV0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.26 A"/>
+    <property type="chains" value="B/D=25-54, G/I=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6H3M">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.82 A"/>
+    <property type="chains" value="A/C/E/G/I/K/N/R=90-110, B/D/F/H/J/L/P/Q=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6HN5">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.20 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6JK8">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.70 A"/>
+    <property type="chains" value="C/D=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6JR3">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="14.50 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6K59">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-109, B=25-56"/>
+  </dbReference>
+  <dbReference type="PDB" id="6NWV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6O17">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.58 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="6P4Z">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6S34">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.35 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6S4I">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.51 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="6S4J">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="6SOF">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.30 A"/>
+    <property type="chains" value="E/G/I/K=90-110, F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6TC2">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.36 A"/>
+    <property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="6TYH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C/E/G/I/K=90-110, B/D/F/H/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6U46">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=25-109"/>
+  </dbReference>
+  <dbReference type="PDB" id="6VEP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.90 A"/>
+    <property type="chains" value="A/G/M/S=90-110, B/H/N/T=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6VER">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.05 A"/>
+    <property type="chains" value="A=90-110, B=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="6VES">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.85 A"/>
+    <property type="chains" value="A=90-110, B=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="6VET">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.46 A"/>
+    <property type="chains" value="A/C/E=90-110, B/D/F=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="6X4X">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6Z7W">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.42 A"/>
+    <property type="chains" value="I/K/M/O=90-110, J/L/N/P=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="6Z7Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.20 A"/>
+    <property type="chains" value="E/G=90-110, F/H=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7BW7">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.10 A"/>
+    <property type="chains" value="D=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7BW8">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.80 A"/>
+    <property type="chains" value="D=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7BWA">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.90 A"/>
+    <property type="chains" value="D/E=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7JP3">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.95 A"/>
+    <property type="chains" value="A/B/C/D/E/F=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7KD6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="B/H/N/T=25-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7MD4">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.50 A"/>
+    <property type="chains" value="O/Q/S/U=90-110, P/R/T/V=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7MD5">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="5.20 A"/>
+    <property type="chains" value="O/Q/S/U=90-110, P/R/T/V=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7MQO">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="7MQR">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.10 A"/>
+    <property type="chains" value="A/C/G/I=90-110, B/D/H/J=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="7MQS">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.40 A"/>
+    <property type="chains" value="A/C/G=90-110, B/D/H=25-46"/>
+  </dbReference>
+  <dbReference type="PDB" id="7NHU">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="7NMG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.48 A"/>
+    <property type="chains" value="C=3-11"/>
+  </dbReference>
+  <dbReference type="PDB" id="7PG0">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="7.60 A"/>
+    <property type="chains" value="C/E/I=90-110, D/F/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7PG2">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="6.70 A"/>
+    <property type="chains" value="C/E/I=90-110, D/F/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7PG3">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="7.30 A"/>
+    <property type="chains" value="C/E/I=90-110, D/F/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7PG4">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="9.10 A"/>
+    <property type="chains" value="C/I=90-110, D/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7QAC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.29 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7QGF">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.20 A"/>
+    <property type="chains" value="AAA=90-110, BBB=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="7QID">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="5.00 A"/>
+    <property type="chains" value="E/I/K=90-110, F/J/L=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7RKD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.25 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7RZE">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.30 A"/>
+    <property type="chains" value="a=90-110, b=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7RZF">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="a=90-110, b=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7RZI">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.00 A"/>
+    <property type="chains" value="a/c=90-110, b/d=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7S4Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.71 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL1">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="C/D=25-54, E/F=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL2">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.60 A"/>
+    <property type="chains" value="C/D/E/F=25-54, G/H/I/J=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL3">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="C/D=25-54, E/F=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL4">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="5.00 A"/>
+    <property type="chains" value="C/D=25-54, E/F=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL6">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.70 A"/>
+    <property type="chains" value="C/D=90-110, E/F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7SL7">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.10 A"/>
+    <property type="chains" value="C/D/E/F=90-110, G/H/I/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7STH">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.50 A"/>
+    <property type="chains" value="C/D=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7STI">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.90 A"/>
+    <property type="chains" value="C=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7STJ">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.40 A"/>
+    <property type="chains" value="C/D=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7STK">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.00 A"/>
+    <property type="chains" value="C/D=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7U6E">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.00 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7V3P">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.60 A"/>
+    <property type="chains" value="E=90-110, F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7YQ3">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.60 A"/>
+    <property type="chains" value="A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7YQ4">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.95 A"/>
+    <property type="chains" value="A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7YQ5">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.27 A"/>
+    <property type="chains" value="A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="7Z5L">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="7Z5Q">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.80 A"/>
+    <property type="chains" value="A=90-110, B=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8EYX">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.50 A"/>
+    <property type="chains" value="D/E/F/G=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8EYY">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.90 A"/>
+    <property type="chains" value="C/D/E/F=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8EZ0">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.70 A"/>
+    <property type="chains" value="D/E/F/G=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8GSG">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.05 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8GUY">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.18 A"/>
+    <property type="chains" value="A/C=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8HGZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.70 A"/>
+    <property type="chains" value="A/E/I/M=90-110, B/F/J/N=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="8HSF">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.90 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8HSK">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.64 A"/>
+    <property type="chains" value="A=90-110, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="8IPZ">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="8OKY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.17 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="8ONI">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/I=90-110, B/F=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8ONK">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="3.40 A"/>
+    <property type="chains" value="A/B=25-54, D/I=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8ONP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.77 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="8ONR">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.88 A"/>
+    <property type="chains" value="A=90-110, B=25-50"/>
+  </dbReference>
+  <dbReference type="PDB" id="8PI4">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.25 A"/>
+    <property type="chains" value="A=25-53, A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8PI5">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.66 A"/>
+    <property type="chains" value="B/D=25-53, B/D=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8PI6">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.14 A"/>
+    <property type="chains" value="A/B/C/D/E=25-53, A/B/C/D/E=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8PJC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.14 A"/>
+    <property type="chains" value="A=25-81, A=90-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8PJH">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=25-53, A=81-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8RRP">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.00 A"/>
+    <property type="chains" value="A/C/E=90-110, B/D/F=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="8RVT">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/C/E/G/I=90-110, B/D/F/H/J=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8SBD">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="3.20 A"/>
+    <property type="chains" value="A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P=90-110, a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="8VCX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.59 A"/>
+    <property type="chains" value="C=64-78"/>
+  </dbReference>
+  <dbReference type="PDB" id="8VDD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.60 A"/>
+    <property type="chains" value="C=64-78"/>
+  </dbReference>
+  <dbReference type="PDB" id="8WU0">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.95 A"/>
+    <property type="chains" value="A/C=90-109, B/D=25-56"/>
+  </dbReference>
+  <dbReference type="PDB" id="8YYS">
+    <property type="method" value="EM"/>
+    <property type="resolution" value="4.14 A"/>
+    <property type="chains" value="C/D=1-110"/>
+  </dbReference>
+  <dbReference type="PDB" id="8Z4B">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.50 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-54"/>
+  </dbReference>
+  <dbReference type="PDB" id="9CIV">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.60 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9LVC">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.30 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9LVD">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.85 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9LVE">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.88 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9LVX">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.70 A"/>
+    <property type="chains" value="A/C/E/G=90-110, B/D/F/H=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9LVY">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="2.85 A"/>
+    <property type="chains" value="A/C=90-110, B/D=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9M4X">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9M4Y">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9M4Z">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.50 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9M50">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.40 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDB" id="9M51">
+    <property type="method" value="X-ray"/>
+    <property type="resolution" value="1.76 A"/>
+    <property type="chains" value="A=90-109, B=25-53"/>
+  </dbReference>
+  <dbReference type="PDBsum" id="1A7F"/>
+  <dbReference type="PDBsum" id="1AI0"/>
+  <dbReference type="PDBsum" id="1AIY"/>
+  <dbReference type="PDBsum" id="1B9E"/>
+  <dbReference type="PDBsum" id="1BEN"/>
+  <dbReference type="PDBsum" id="1EFE"/>
+  <dbReference type="PDBsum" id="1EV3"/>
+  <dbReference type="PDBsum" id="1EV6"/>
+  <dbReference type="PDBsum" id="1EVR"/>
+  <dbReference type="PDBsum" id="1FU2"/>
+  <dbReference type="PDBsum" id="1FUB"/>
+  <dbReference type="PDBsum" id="1G7A"/>
+  <dbReference type="PDBsum" id="1G7B"/>
+  <dbReference type="PDBsum" id="1GUJ"/>
+  <dbReference type="PDBsum" id="1HIQ"/>
+  <dbReference type="PDBsum" id="1HIS"/>
+  <dbReference type="PDBsum" id="1HIT"/>
+  <dbReference type="PDBsum" id="1HLS"/>
+  <dbReference type="PDBsum" id="1HTV"/>
+  <dbReference type="PDBsum" id="1HUI"/>
+  <dbReference type="PDBsum" id="1IOG"/>
+  <dbReference type="PDBsum" id="1IOH"/>
+  <dbReference type="PDBsum" id="1J73"/>
+  <dbReference type="PDBsum" id="1JCA"/>
+  <dbReference type="PDBsum" id="1JCO"/>
+  <dbReference type="PDBsum" id="1JK8"/>
+  <dbReference type="PDBsum" id="1K3M"/>
+  <dbReference type="PDBsum" id="1KMF"/>
+  <dbReference type="PDBsum" id="1LKQ"/>
+  <dbReference type="PDBsum" id="1LPH"/>
+  <dbReference type="PDBsum" id="1MHI"/>
+  <dbReference type="PDBsum" id="1MHJ"/>
+  <dbReference type="PDBsum" id="1MSO"/>
+  <dbReference type="PDBsum" id="1OS3"/>
+  <dbReference type="PDBsum" id="1OS4"/>
+  <dbReference type="PDBsum" id="1Q4V"/>
+  <dbReference type="PDBsum" id="1QIY"/>
+  <dbReference type="PDBsum" id="1QIZ"/>
+  <dbReference type="PDBsum" id="1QJ0"/>
+  <dbReference type="PDBsum" id="1RWE"/>
+  <dbReference type="PDBsum" id="1SF1"/>
+  <dbReference type="PDBsum" id="1SJT"/>
+  <dbReference type="PDBsum" id="1SJU"/>
+  <dbReference type="PDBsum" id="1T0C"/>
+  <dbReference type="PDBsum" id="1T1K"/>
+  <dbReference type="PDBsum" id="1T1P"/>
+  <dbReference type="PDBsum" id="1T1Q"/>
+  <dbReference type="PDBsum" id="1TRZ"/>
+  <dbReference type="PDBsum" id="1TYL"/>
+  <dbReference type="PDBsum" id="1TYM"/>
+  <dbReference type="PDBsum" id="1UZ9"/>
+  <dbReference type="PDBsum" id="1VKT"/>
+  <dbReference type="PDBsum" id="1W8P"/>
+  <dbReference type="PDBsum" id="1XDA"/>
+  <dbReference type="PDBsum" id="1XGL"/>
+  <dbReference type="PDBsum" id="1XW7"/>
+  <dbReference type="PDBsum" id="1ZEG"/>
+  <dbReference type="PDBsum" id="1ZEH"/>
+  <dbReference type="PDBsum" id="1ZNJ"/>
+  <dbReference type="PDBsum" id="2AIY"/>
+  <dbReference type="PDBsum" id="2C8Q"/>
+  <dbReference type="PDBsum" id="2C8R"/>
+  <dbReference type="PDBsum" id="2CEU"/>
+  <dbReference type="PDBsum" id="2G54"/>
+  <dbReference type="PDBsum" id="2G56"/>
+  <dbReference type="PDBsum" id="2H67"/>
+  <dbReference type="PDBsum" id="2HH4"/>
+  <dbReference type="PDBsum" id="2HHO"/>
+  <dbReference type="PDBsum" id="2HIU"/>
+  <dbReference type="PDBsum" id="2JMN"/>
+  <dbReference type="PDBsum" id="2JUM"/>
+  <dbReference type="PDBsum" id="2JUU"/>
+  <dbReference type="PDBsum" id="2JUV"/>
+  <dbReference type="PDBsum" id="2JV1"/>
+  <dbReference type="PDBsum" id="2JZQ"/>
+  <dbReference type="PDBsum" id="2K91"/>
+  <dbReference type="PDBsum" id="2K9R"/>
+  <dbReference type="PDBsum" id="2KJJ"/>
+  <dbReference type="PDBsum" id="2KJU"/>
+  <dbReference type="PDBsum" id="2KQP"/>
+  <dbReference type="PDBsum" id="2KQQ"/>
+  <dbReference type="PDBsum" id="2KXK"/>
+  <dbReference type="PDBsum" id="2L1Y"/>
+  <dbReference type="PDBsum" id="2L1Z"/>
+  <dbReference type="PDBsum" id="2LGB"/>
+  <dbReference type="PDBsum" id="2LWZ"/>
+  <dbReference type="PDBsum" id="2M1D"/>
+  <dbReference type="PDBsum" id="2M1E"/>
+  <dbReference type="PDBsum" id="2M2M"/>
+  <dbReference type="PDBsum" id="2M2N"/>
+  <dbReference type="PDBsum" id="2M2O"/>
+  <dbReference type="PDBsum" id="2M2P"/>
+  <dbReference type="PDBsum" id="2MLI"/>
+  <dbReference type="PDBsum" id="2MPG"/>
+  <dbReference type="PDBsum" id="2MPI"/>
+  <dbReference type="PDBsum" id="2MVC"/>
+  <dbReference type="PDBsum" id="2MVD"/>
+  <dbReference type="PDBsum" id="2N2V"/>
+  <dbReference type="PDBsum" id="2N2W"/>
+  <dbReference type="PDBsum" id="2N2X"/>
+  <dbReference type="PDBsum" id="2OLY"/>
+  <dbReference type="PDBsum" id="2OLZ"/>
+  <dbReference type="PDBsum" id="2OM0"/>
+  <dbReference type="PDBsum" id="2OM1"/>
+  <dbReference type="PDBsum" id="2OMG"/>
+  <dbReference type="PDBsum" id="2OMH"/>
+  <dbReference type="PDBsum" id="2OMI"/>
+  <dbReference type="PDBsum" id="2OMQ"/>
+  <dbReference type="PDBsum" id="2QIU"/>
+  <dbReference type="PDBsum" id="2R34"/>
+  <dbReference type="PDBsum" id="2R35"/>
+  <dbReference type="PDBsum" id="2R36"/>
+  <dbReference type="PDBsum" id="2RN5"/>
+  <dbReference type="PDBsum" id="2VJZ"/>
+  <dbReference type="PDBsum" id="2VK0"/>
+  <dbReference type="PDBsum" id="2W44"/>
+  <dbReference type="PDBsum" id="2WBY"/>
+  <dbReference type="PDBsum" id="2WC0"/>
+  <dbReference type="PDBsum" id="2WRU"/>
+  <dbReference type="PDBsum" id="2WRV"/>
+  <dbReference type="PDBsum" id="2WRW"/>
+  <dbReference type="PDBsum" id="2WRX"/>
+  <dbReference type="PDBsum" id="2WS0"/>
+  <dbReference type="PDBsum" id="2WS1"/>
+  <dbReference type="PDBsum" id="2WS4"/>
+  <dbReference type="PDBsum" id="2WS6"/>
+  <dbReference type="PDBsum" id="2WS7"/>
+  <dbReference type="PDBsum" id="3AIY"/>
+  <dbReference type="PDBsum" id="3BXQ"/>
+  <dbReference type="PDBsum" id="3E7Y"/>
+  <dbReference type="PDBsum" id="3E7Z"/>
+  <dbReference type="PDBsum" id="3EXX"/>
+  <dbReference type="PDBsum" id="3FQ9"/>
+  <dbReference type="PDBsum" id="3HYD"/>
+  <dbReference type="PDBsum" id="3I3Z"/>
+  <dbReference type="PDBsum" id="3I40"/>
+  <dbReference type="PDBsum" id="3ILG"/>
+  <dbReference type="PDBsum" id="3INC"/>
+  <dbReference type="PDBsum" id="3IR0"/>
+  <dbReference type="PDBsum" id="3JSD"/>
+  <dbReference type="PDBsum" id="3KQ6"/>
+  <dbReference type="PDBsum" id="3P2X"/>
+  <dbReference type="PDBsum" id="3P33"/>
+  <dbReference type="PDBsum" id="3Q6E"/>
+  <dbReference type="PDBsum" id="3ROV"/>
+  <dbReference type="PDBsum" id="3TT8"/>
+  <dbReference type="PDBsum" id="3U4N"/>
+  <dbReference type="PDBsum" id="3UTQ"/>
+  <dbReference type="PDBsum" id="3UTS"/>
+  <dbReference type="PDBsum" id="3UTT"/>
+  <dbReference type="PDBsum" id="3V19"/>
+  <dbReference type="PDBsum" id="3V1G"/>
+  <dbReference type="PDBsum" id="3W11"/>
+  <dbReference type="PDBsum" id="3W12"/>
+  <dbReference type="PDBsum" id="3W13"/>
+  <dbReference type="PDBsum" id="3W7Y"/>
+  <dbReference type="PDBsum" id="3W7Z"/>
+  <dbReference type="PDBsum" id="3W80"/>
+  <dbReference type="PDBsum" id="3ZI3"/>
+  <dbReference type="PDBsum" id="3ZQR"/>
+  <dbReference type="PDBsum" id="3ZS2"/>
+  <dbReference type="PDBsum" id="3ZU1"/>
+  <dbReference type="PDBsum" id="4AIY"/>
+  <dbReference type="PDBsum" id="4AJX"/>
+  <dbReference type="PDBsum" id="4AJZ"/>
+  <dbReference type="PDBsum" id="4AK0"/>
+  <dbReference type="PDBsum" id="4AKJ"/>
+  <dbReference type="PDBsum" id="4CXL"/>
+  <dbReference type="PDBsum" id="4CXN"/>
+  <dbReference type="PDBsum" id="4CY7"/>
+  <dbReference type="PDBsum" id="4EFX"/>
+  <dbReference type="PDBsum" id="4EWW"/>
+  <dbReference type="PDBsum" id="4EWX"/>
+  <dbReference type="PDBsum" id="4EWZ"/>
+  <dbReference type="PDBsum" id="4EX0"/>
+  <dbReference type="PDBsum" id="4EX1"/>
+  <dbReference type="PDBsum" id="4EXX"/>
+  <dbReference type="PDBsum" id="4EY1"/>
+  <dbReference type="PDBsum" id="4EY9"/>
+  <dbReference type="PDBsum" id="4EYD"/>
+  <dbReference type="PDBsum" id="4EYN"/>
+  <dbReference type="PDBsum" id="4EYP"/>
+  <dbReference type="PDBsum" id="4F0N"/>
+  <dbReference type="PDBsum" id="4F0O"/>
+  <dbReference type="PDBsum" id="4F1A"/>
+  <dbReference type="PDBsum" id="4F1B"/>
+  <dbReference type="PDBsum" id="4F1C"/>
+  <dbReference type="PDBsum" id="4F1D"/>
+  <dbReference type="PDBsum" id="4F1F"/>
+  <dbReference type="PDBsum" id="4F1G"/>
+  <dbReference type="PDBsum" id="4F4T"/>
+  <dbReference type="PDBsum" id="4F4V"/>
+  <dbReference type="PDBsum" id="4F51"/>
+  <dbReference type="PDBsum" id="4F8F"/>
+  <dbReference type="PDBsum" id="4FG3"/>
+  <dbReference type="PDBsum" id="4FKA"/>
+  <dbReference type="PDBsum" id="4GBC"/>
+  <dbReference type="PDBsum" id="4GBI"/>
+  <dbReference type="PDBsum" id="4GBK"/>
+  <dbReference type="PDBsum" id="4GBL"/>
+  <dbReference type="PDBsum" id="4GBN"/>
+  <dbReference type="PDBsum" id="4IUZ"/>
+  <dbReference type="PDBsum" id="4IYD"/>
+  <dbReference type="PDBsum" id="4IYF"/>
+  <dbReference type="PDBsum" id="4NIB"/>
+  <dbReference type="PDBsum" id="4OGA"/>
+  <dbReference type="PDBsum" id="4P65"/>
+  <dbReference type="PDBsum" id="4RXW"/>
+  <dbReference type="PDBsum" id="4UNE"/>
+  <dbReference type="PDBsum" id="4UNG"/>
+  <dbReference type="PDBsum" id="4UNH"/>
+  <dbReference type="PDBsum" id="4WDI"/>
+  <dbReference type="PDBsum" id="4XC4"/>
+  <dbReference type="PDBsum" id="4Y19"/>
+  <dbReference type="PDBsum" id="4Y1A"/>
+  <dbReference type="PDBsum" id="4Z76"/>
+  <dbReference type="PDBsum" id="4Z77"/>
+  <dbReference type="PDBsum" id="4Z78"/>
+  <dbReference type="PDBsum" id="5AIY"/>
+  <dbReference type="PDBsum" id="5BOQ"/>
+  <dbReference type="PDBsum" id="5BPO"/>
+  <dbReference type="PDBsum" id="5BQQ"/>
+  <dbReference type="PDBsum" id="5BTS"/>
+  <dbReference type="PDBsum" id="5C0D"/>
+  <dbReference type="PDBsum" id="5CJO"/>
+  <dbReference type="PDBsum" id="5CNY"/>
+  <dbReference type="PDBsum" id="5CO2"/>
+  <dbReference type="PDBsum" id="5CO6"/>
+  <dbReference type="PDBsum" id="5CO9"/>
+  <dbReference type="PDBsum" id="5E7W"/>
+  <dbReference type="PDBsum" id="5EMS"/>
+  <dbReference type="PDBsum" id="5EN9"/>
+  <dbReference type="PDBsum" id="5ENA"/>
+  <dbReference type="PDBsum" id="5HPR"/>
+  <dbReference type="PDBsum" id="5HPU"/>
+  <dbReference type="PDBsum" id="5HQI"/>
+  <dbReference type="PDBsum" id="5HRQ"/>
+  <dbReference type="PDBsum" id="5HYJ"/>
+  <dbReference type="PDBsum" id="5MAM"/>
+  <dbReference type="PDBsum" id="5MHD"/>
+  <dbReference type="PDBsum" id="5MT3"/>
+  <dbReference type="PDBsum" id="5MT9"/>
+  <dbReference type="PDBsum" id="5MWQ"/>
+  <dbReference type="PDBsum" id="5T7R"/>
+  <dbReference type="PDBsum" id="5UDP"/>
+  <dbReference type="PDBsum" id="5UOZ"/>
+  <dbReference type="PDBsum" id="5UQA"/>
+  <dbReference type="PDBsum" id="5URT"/>
+  <dbReference type="PDBsum" id="5URU"/>
+  <dbReference type="PDBsum" id="5USP"/>
+  <dbReference type="PDBsum" id="5USS"/>
+  <dbReference type="PDBsum" id="5USV"/>
+  <dbReference type="PDBsum" id="5UU2"/>
+  <dbReference type="PDBsum" id="5UU3"/>
+  <dbReference type="PDBsum" id="5UU4"/>
+  <dbReference type="PDBsum" id="5VIZ"/>
+  <dbReference type="PDBsum" id="5WBT"/>
+  <dbReference type="PDBsum" id="5WDM"/>
+  <dbReference type="PDBsum" id="5WOB"/>
+  <dbReference type="PDBsum" id="6B3Q"/>
+  <dbReference type="PDBsum" id="6B70"/>
+  <dbReference type="PDBsum" id="6BFC"/>
+  <dbReference type="PDBsum" id="6CE7"/>
+  <dbReference type="PDBsum" id="6CE9"/>
+  <dbReference type="PDBsum" id="6CEB"/>
+  <dbReference type="PDBsum" id="6CK2"/>
+  <dbReference type="PDBsum" id="6GNQ"/>
+  <dbReference type="PDBsum" id="6GV0"/>
+  <dbReference type="PDBsum" id="6H3M"/>
+  <dbReference type="PDBsum" id="6HN5"/>
+  <dbReference type="PDBsum" id="6JK8"/>
+  <dbReference type="PDBsum" id="6JR3"/>
+  <dbReference type="PDBsum" id="6K59"/>
+  <dbReference type="PDBsum" id="6NWV"/>
+  <dbReference type="PDBsum" id="6O17"/>
+  <dbReference type="PDBsum" id="6P4Z"/>
+  <dbReference type="PDBsum" id="6S34"/>
+  <dbReference type="PDBsum" id="6S4I"/>
+  <dbReference type="PDBsum" id="6S4J"/>
+  <dbReference type="PDBsum" id="6SOF"/>
+  <dbReference type="PDBsum" id="6TC2"/>
+  <dbReference type="PDBsum" id="6TYH"/>
+  <dbReference type="PDBsum" id="6U46"/>
+  <dbReference type="PDBsum" id="6VEP"/>
+  <dbReference type="PDBsum" id="6VER"/>
+  <dbReference type="PDBsum" id="6VES"/>
+  <dbReference type="PDBsum" id="6VET"/>
+  <dbReference type="PDBsum" id="6X4X"/>
+  <dbReference type="PDBsum" id="6Z7W"/>
+  <dbReference type="PDBsum" id="6Z7Y"/>
+  <dbReference type="PDBsum" id="7BW7"/>
+  <dbReference type="PDBsum" id="7BW8"/>
+  <dbReference type="PDBsum" id="7BWA"/>
+  <dbReference type="PDBsum" id="7JP3"/>
+  <dbReference type="PDBsum" id="7KD6"/>
+  <dbReference type="PDBsum" id="7MD4"/>
+  <dbReference type="PDBsum" id="7MD5"/>
+  <dbReference type="PDBsum" id="7MQO"/>
+  <dbReference type="PDBsum" id="7MQR"/>
+  <dbReference type="PDBsum" id="7MQS"/>
+  <dbReference type="PDBsum" id="7NHU"/>
+  <dbReference type="PDBsum" id="7NMG"/>
+  <dbReference type="PDBsum" id="7PG0"/>
+  <dbReference type="PDBsum" id="7PG2"/>
+  <dbReference type="PDBsum" id="7PG3"/>
+  <dbReference type="PDBsum" id="7PG4"/>
+  <dbReference type="PDBsum" id="7QAC"/>
+  <dbReference type="PDBsum" id="7QGF"/>
+  <dbReference type="PDBsum" id="7QID"/>
+  <dbReference type="PDBsum" id="7RKD"/>
+  <dbReference type="PDBsum" id="7RZE"/>
+  <dbReference type="PDBsum" id="7RZF"/>
+  <dbReference type="PDBsum" id="7RZI"/>
+  <dbReference type="PDBsum" id="7S4Y"/>
+  <dbReference type="PDBsum" id="7SL1"/>
+  <dbReference type="PDBsum" id="7SL2"/>
+  <dbReference type="PDBsum" id="7SL3"/>
+  <dbReference type="PDBsum" id="7SL4"/>
+  <dbReference type="PDBsum" id="7SL6"/>
+  <dbReference type="PDBsum" id="7SL7"/>
+  <dbReference type="PDBsum" id="7STH"/>
+  <dbReference type="PDBsum" id="7STI"/>
+  <dbReference type="PDBsum" id="7STJ"/>
+  <dbReference type="PDBsum" id="7STK"/>
+  <dbReference type="PDBsum" id="7U6E"/>
+  <dbReference type="PDBsum" id="7V3P"/>
+  <dbReference type="PDBsum" id="7YQ3"/>
+  <dbReference type="PDBsum" id="7YQ4"/>
+  <dbReference type="PDBsum" id="7YQ5"/>
+  <dbReference type="PDBsum" id="7Z5L"/>
+  <dbReference type="PDBsum" id="7Z5Q"/>
+  <dbReference type="PDBsum" id="8EYX"/>
+  <dbReference type="PDBsum" id="8EYY"/>
+  <dbReference type="PDBsum" id="8EZ0"/>
+  <dbReference type="PDBsum" id="8GSG"/>
+  <dbReference type="PDBsum" id="8GUY"/>
+  <dbReference type="PDBsum" id="8HGZ"/>
+  <dbReference type="PDBsum" id="8HSF"/>
+  <dbReference type="PDBsum" id="8HSK"/>
+  <dbReference type="PDBsum" id="8IPZ"/>
+  <dbReference type="PDBsum" id="8OKY"/>
+  <dbReference type="PDBsum" id="8ONI"/>
+  <dbReference type="PDBsum" id="8ONK"/>
+  <dbReference type="PDBsum" id="8ONP"/>
+  <dbReference type="PDBsum" id="8ONR"/>
+  <dbReference type="PDBsum" id="8PI4"/>
+  <dbReference type="PDBsum" id="8PI5"/>
+  <dbReference type="PDBsum" id="8PI6"/>
+  <dbReference type="PDBsum" id="8PJC"/>
+  <dbReference type="PDBsum" id="8PJH"/>
+  <dbReference type="PDBsum" id="8RRP"/>
+  <dbReference type="PDBsum" id="8RVT"/>
+  <dbReference type="PDBsum" id="8SBD"/>
+  <dbReference type="PDBsum" id="8VCX"/>
+  <dbReference type="PDBsum" id="8VDD"/>
+  <dbReference type="PDBsum" id="8WU0"/>
+  <dbReference type="PDBsum" id="8YYS"/>
+  <dbReference type="PDBsum" id="8Z4B"/>
+  <dbReference type="PDBsum" id="9CIV"/>
+  <dbReference type="PDBsum" id="9LVC"/>
+  <dbReference type="PDBsum" id="9LVD"/>
+  <dbReference type="PDBsum" id="9LVE"/>
+  <dbReference type="PDBsum" id="9LVX"/>
+  <dbReference type="PDBsum" id="9LVY"/>
+  <dbReference type="PDBsum" id="9M4X"/>
+  <dbReference type="PDBsum" id="9M4Y"/>
+  <dbReference type="PDBsum" id="9M4Z"/>
+  <dbReference type="PDBsum" id="9M50"/>
+  <dbReference type="PDBsum" id="9M51"/>
+  <dbReference type="AlphaFoldDB" id="P01308"/>
+  <dbReference type="BMRB" id="P01308"/>
+  <dbReference type="EMDB" id="EMD-0247"/>
+  <dbReference type="EMDB" id="EMD-10273"/>
+  <dbReference type="EMDB" id="EMD-13385"/>
+  <dbReference type="EMDB" id="EMD-13386"/>
+  <dbReference type="EMDB" id="EMD-13387"/>
+  <dbReference type="EMDB" id="EMD-13388"/>
+  <dbReference type="EMDB" id="EMD-23766"/>
+  <dbReference type="EMDB" id="EMD-23767"/>
+  <dbReference type="EMDB" id="EMD-23949"/>
+  <dbReference type="EMDB" id="EMD-23950"/>
+  <dbReference type="EMDB" id="EMD-23951"/>
+  <dbReference type="EMDB" id="EMD-24757"/>
+  <dbReference type="EMDB" id="EMD-24758"/>
+  <dbReference type="EMDB" id="EMD-24761"/>
+  <dbReference type="EMDB" id="EMD-25188"/>
+  <dbReference type="EMDB" id="EMD-25189"/>
+  <dbReference type="EMDB" id="EMD-25190"/>
+  <dbReference type="EMDB" id="EMD-25191"/>
+  <dbReference type="EMDB" id="EMD-25192"/>
+  <dbReference type="EMDB" id="EMD-25193"/>
+  <dbReference type="EMDB" id="EMD-25428"/>
+  <dbReference type="EMDB" id="EMD-25429"/>
+  <dbReference type="EMDB" id="EMD-25430"/>
+  <dbReference type="EMDB" id="EMD-25431"/>
+  <dbReference type="EMDB" id="EMD-26364"/>
+  <dbReference type="EMDB" id="EMD-28723"/>
+  <dbReference type="EMDB" id="EMD-28724"/>
+  <dbReference type="EMDB" id="EMD-28725"/>
+  <dbReference type="EMDB" id="EMD-30229"/>
+  <dbReference type="EMDB" id="EMD-30230"/>
+  <dbReference type="EMDB" id="EMD-30231"/>
+  <dbReference type="EMDB" id="EMD-34018"/>
+  <dbReference type="EMDB" id="EMD-34019"/>
+  <dbReference type="EMDB" id="EMD-34020"/>
+  <dbReference type="EMDB" id="EMD-34281"/>
+  <dbReference type="EMDB" id="EMD-39677"/>
+  <dbReference type="EMDB" id="EMD-40305"/>
+  <dbReference type="EMDB" id="EMD-47043"/>
+  <dbReference type="EMDB" id="EMD-7041"/>
+  <dbReference type="EMDB" id="EMD-7062"/>
+  <dbReference type="EMDB" id="EMD-7461"/>
+  <dbReference type="EMDB" id="EMD-7462"/>
+  <dbReference type="EMDB" id="EMD-7463"/>
+  <dbReference type="EMDB" id="EMD-9838"/>
+  <dbReference type="EMDB" id="EMD-9878"/>
+  <dbReference type="PCDDB" id="P01308"/>
+  <dbReference type="SASBDB" id="P01308"/>
+  <dbReference type="SMR" id="P01308"/>
+  <dbReference type="BioGRID" id="109842">
+    <property type="interactions" value="526"/>
+  </dbReference>
+  <dbReference type="ComplexPortal" id="CPX-943">
+    <property type="entry name" value="Insulin complex"/>
+  </dbReference>
+  <dbReference type="DIP" id="DIP-6024N"/>
+  <dbReference type="FunCoup" id="P01308">
+    <property type="interactions" value="1333"/>
+  </dbReference>
+  <dbReference type="IntAct" id="P01308">
+    <property type="interactions" value="39"/>
+  </dbReference>
+  <dbReference type="MINT" id="P01308"/>
+  <dbReference type="NDEx" id="IQUERY-CP-INS">
+    <property type="evidences" value="42 NDEx IQuery Curated Pathways"/>
+  </dbReference>
+  <dbReference type="STRING" id="9606.ENSP00000380432"/>
+  <dbReference type="ChEMBL" id="CHEMBL5881"/>
+  <dbReference type="DrugBank" id="DB01289">
+    <property type="generic name" value="Glisoxepide"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB01306">
+    <property type="generic name" value="Insulin aspart"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB09564">
+    <property type="generic name" value="Insulin degludec"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB01307">
+    <property type="generic name" value="Insulin detemir"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB00047">
+    <property type="generic name" value="Insulin glargine"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB11567">
+    <property type="generic name" value="Insulin peglispro"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB00638">
+    <property type="generic name" value="Inulin"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB06315">
+    <property type="generic name" value="ISF402"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB01776">
+    <property type="generic name" value="M-Cresol"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB08231">
+    <property type="generic name" value="Myristic acid"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB01593">
+    <property type="generic name" value="Zinc"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB14487">
+    <property type="generic name" value="Zinc acetate"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB14533">
+    <property type="generic name" value="Zinc chloride"/>
+  </dbReference>
+  <dbReference type="DrugBank" id="DB14548">
+    <property type="generic name" value="Zinc sulfate, unspecified form"/>
+  </dbReference>
+  <dbReference type="Allergome" id="2121">
+    <property type="allergen name" value="Hom s Insulin"/>
+  </dbReference>
+  <dbReference type="CarbonylDB" id="P01308"/>
+  <dbReference type="iPTMnet" id="P01308"/>
+  <dbReference type="PhosphoSitePlus" id="P01308"/>
+  <dbReference type="BioMuta" id="INS"/>
+  <dbReference type="DMDM" id="124617"/>
+  <dbReference type="jPOST" id="P01308"/>
+  <dbReference type="MassIVE" id="P01308"/>
+  <dbReference type="PaxDb" id="9606-ENSP00000380432"/>
+  <dbReference type="PeptideAtlas" id="P01308"/>
+  <dbReference type="ProteomicsDB" id="51374">
+    <molecule id="P01308-1"/>
+  </dbReference>
+  <dbReference type="ABCD" id="P01308">
+    <property type="antibodies" value="35 sequenced antibodies"/>
+  </dbReference>
+  <dbReference type="Antibodypedia" id="56056">
+    <property type="antibodies" value="3485 antibodies from 51 providers"/>
+  </dbReference>
+  <dbReference type="DNASU" id="3630"/>
+  <dbReference type="Ensembl" id="ENST00000250971.7">
+    <property type="protein sequence ID" value="ENSP00000250971.3"/>
+    <property type="gene ID" value="ENSG00000254647.7"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000381330.5">
+    <property type="protein sequence ID" value="ENSP00000370731.5"/>
+    <property type="gene ID" value="ENSG00000254647.7"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000397262.5">
+    <property type="protein sequence ID" value="ENSP00000380432.1"/>
+    <property type="gene ID" value="ENSG00000254647.7"/>
+  </dbReference>
+  <dbReference type="GeneID" id="3630"/>
+  <dbReference type="KEGG" id="hsa:3630"/>
+  <dbReference type="MANE-Select" id="ENST00000381330.5">
+    <property type="protein sequence ID" value="ENSP00000370731.5"/>
+    <property type="RefSeq nucleotide sequence ID" value="NM_000207.3"/>
+    <property type="RefSeq protein sequence ID" value="NP_000198.1"/>
+  </dbReference>
+  <dbReference type="UCSC" id="uc001lvn.3">
+    <molecule id="P01308-1"/>
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="AGR" id="HGNC:6081"/>
+  <dbReference type="ClinPGx" id="PA201"/>
+  <dbReference type="CTD" id="3630"/>
+  <dbReference type="DisGeNET" id="3630"/>
+  <dbReference type="GeneCards" id="INS"/>
+  <dbReference type="GeneReviews" id="INS"/>
+  <dbReference type="HGNC" id="HGNC:6081">
+    <property type="gene designation" value="INS"/>
+  </dbReference>
+  <dbReference type="HPA" id="ENSG00000254647">
+    <property type="expression patterns" value="Tissue enriched (pancreas)"/>
+  </dbReference>
+  <dbReference type="MalaCards" id="INS"/>
+  <dbReference type="MIM" id="125852">
+    <property type="type" value="phenotype"/>
+  </dbReference>
+  <dbReference type="MIM" id="176730">
+    <property type="type" value="gene"/>
+  </dbReference>
+  <dbReference type="MIM" id="613370">
+    <property type="type" value="phenotype"/>
+  </dbReference>
+  <dbReference type="MIM" id="616214">
+    <property type="type" value="phenotype"/>
+  </dbReference>
+  <dbReference type="MIM" id="618858">
+    <property type="type" value="phenotype"/>
+  </dbReference>
+  <dbReference type="OpenTargets" id="ENSG00000254647"/>
+  <dbReference type="Orphanet" id="99885">
+    <property type="disease" value="Isolated permanent neonatal diabetes mellitus"/>
+  </dbReference>
+  <dbReference type="Orphanet" id="552">
+    <property type="disease" value="MODY"/>
+  </dbReference>
+  <dbReference type="VEuPathDB" id="HostDB:ENSG00000254647"/>
+  <dbReference type="eggNOG" id="ENOG502S5P5">
+    <property type="taxonomic scope" value="Eukaryota"/>
+  </dbReference>
+  <dbReference type="GeneTree" id="ENSGT00390000015440"/>
+  <dbReference type="InParanoid" id="P01308"/>
+  <dbReference type="OMA" id="LANQHLC"/>
+  <dbReference type="OrthoDB" id="10019596at2759"/>
+  <dbReference type="PAN-GO" id="P01308">
+    <property type="GO annotations" value="5 GO annotations based on evolutionary models"/>
+  </dbReference>
+  <dbReference type="PhylomeDB" id="P01308"/>
+  <dbReference type="BioCyc" id="MetaCyc:MONOMER-16190"/>
+  <dbReference type="PathwayCommons" id="P01308"/>
+  <dbReference type="Reactome" id="R-HSA-210745">
+    <property type="pathway name" value="Regulation of gene expression in beta cells"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-264876">
+    <property type="pathway name" value="Insulin processing"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-422085">
+    <property type="pathway name" value="Synthesis, secretion, and deacylation of Ghrelin"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-422356">
+    <property type="pathway name" value="Regulation of insulin secretion"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-6807878">
+    <property type="pathway name" value="COPI-mediated anterograde transport"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-6811558">
+    <property type="pathway name" value="PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-74713">
+    <property type="pathway name" value="IRS activation"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-74749">
+    <property type="pathway name" value="Signal attenuation"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-74751">
+    <property type="pathway name" value="Insulin receptor signalling cascade"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-74752">
+    <property type="pathway name" value="Signaling by Insulin receptor"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-77387">
+    <property type="pathway name" value="Insulin receptor recycling"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-9615017">
+    <property type="pathway name" value="FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-9768919">
+    <property type="pathway name" value="NPAS4 regulates expression of target genes"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-977225">
+    <property type="pathway name" value="Amyloid fiber formation"/>
+  </dbReference>
+  <dbReference type="SignaLink" id="P01308"/>
+  <dbReference type="SIGNOR" id="P01308"/>
+  <dbReference type="Agora" id="ENSG00000254647"/>
+  <dbReference type="BioGRID-ORCS" id="3630">
+    <property type="hits" value="382 hits in 1121 CRISPR screens"/>
+  </dbReference>
+  <dbReference type="EvolutionaryTrace" id="P01308"/>
+  <dbReference type="GeneWiki" id="Insulin"/>
+  <dbReference type="GenomeRNAi" id="3630"/>
+  <dbReference type="Pharos" id="P01308">
+    <property type="development level" value="Tbio"/>
+  </dbReference>
+  <dbReference type="PRO" id="PR:P01308"/>
+  <dbReference type="Proteomes" id="UP000005640">
+    <property type="component" value="Chromosome 11"/>
+  </dbReference>
+  <dbReference type="RNAct" id="P01308">
+    <property type="molecule type" value="protein"/>
+  </dbReference>
+  <dbReference type="Bgee" id="ENSG00000254647">
+    <property type="expression patterns" value="Expressed in type B pancreatic cell and 92 other cell types or tissues"/>
+  </dbReference>
+  <dbReference type="ExpressionAtlas" id="P01308">
+    <property type="expression patterns" value="baseline and differential"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005788">
+    <property type="term" value="C:endoplasmic reticulum lumen"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0033116">
+    <property type="term" value="C:endoplasmic reticulum-Golgi intermediate compartment membrane"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031904">
+    <property type="term" value="C:endosome lumen"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005576">
+    <property type="term" value="C:extracellular region"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005615">
+    <property type="term" value="C:extracellular space"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005796">
+    <property type="term" value="C:Golgi lumen"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0000139">
+    <property type="term" value="C:Golgi membrane"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0034774">
+    <property type="term" value="C:secretory granule lumen"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030133">
+    <property type="term" value="C:transport vesicle"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005179">
+    <property type="term" value="F:hormone activity"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042802">
+    <property type="term" value="F:identical protein binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="IntAct"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005158">
+    <property type="term" value="F:insulin receptor binding"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005159">
+    <property type="term" value="F:insulin-like growth factor receptor binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0002020">
+    <property type="term" value="F:protease binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0048018">
+    <property type="term" value="F:receptor ligand activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006953">
+    <property type="term" value="P:acute-phase response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046631">
+    <property type="term" value="P:alpha-beta T cell activation"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007267">
+    <property type="term" value="P:cell-cell signaling"/>
+    <property type="evidence" value="ECO:0000305"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050890">
+    <property type="term" value="P:cognition"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0055089">
+    <property type="term" value="P:fatty acid homeostasis"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007186">
+    <property type="term" value="P:G protein-coupled receptor signaling pathway"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042593">
+    <property type="term" value="P:glucose homeostasis"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006006">
+    <property type="term" value="P:glucose metabolic process"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="UniProtKB-KW"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0008286">
+    <property type="term" value="P:insulin receptor signaling pathway"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0002674">
+    <property type="term" value="P:negative regulation of acute inflammatory response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045922">
+    <property type="term" value="P:negative regulation of fatty acid metabolic process"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:2000252">
+    <property type="term" value="P:negative regulation of feeding behavior"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="DFLAT"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0010629">
+    <property type="term" value="P:negative regulation of gene expression"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045721">
+    <property type="term" value="P:negative regulation of gluconeogenesis"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045818">
+    <property type="term" value="P:negative regulation of glycogen catabolic process"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050995">
+    <property type="term" value="P:negative regulation of lipid catabolic process"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="AgBase"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1902176">
+    <property type="term" value="P:negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042177">
+    <property type="term" value="P:negative regulation of protein catabolic process"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050709">
+    <property type="term" value="P:negative regulation of protein secretion"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1903427">
+    <property type="term" value="P:negative regulation of reactive oxygen species biosynthetic process"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0060266">
+    <property type="term" value="P:negative regulation of respiratory burst involved in inflammatory response"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1990535">
+    <property type="term" value="P:neuron projection maintenance"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0038060">
+    <property type="term" value="P:nitric oxide-cGMP-mediated signaling"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0090336">
+    <property type="term" value="P:positive regulation of brown fat cell differentiation"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043123">
+    <property type="term" value="P:positive regulation of canonical NF-kappaB signal transduction"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045597">
+    <property type="term" value="P:positive regulation of cell differentiation"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030307">
+    <property type="term" value="P:positive regulation of cell growth"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030335">
+    <property type="term" value="P:positive regulation of cell migration"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0008284">
+    <property type="term" value="P:positive regulation of cell population proliferation"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0001819">
+    <property type="term" value="P:positive regulation of cytokine production"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046326">
+    <property type="term" value="P:positive regulation of D-glucose import across plasma membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1902952">
+    <property type="term" value="P:positive regulation of dendritic spine maintenance"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0010628">
+    <property type="term" value="P:positive regulation of gene expression"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045725">
+    <property type="term" value="P:positive regulation of glycogen biosynthetic process"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045821">
+    <property type="term" value="P:positive regulation of glycolytic process"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046628">
+    <property type="term" value="P:positive regulation of insulin receptor signaling pathway"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046889">
+    <property type="term" value="P:positive regulation of lipid biosynthetic process"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1900273">
+    <property type="term" value="P:positive regulation of long-term synaptic potentiation"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043410">
+    <property type="term" value="P:positive regulation of MAPK cascade"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0045840">
+    <property type="term" value="P:positive regulation of mitotic nuclear division"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0010976">
+    <property type="term" value="P:positive regulation of neuron projection development"/>
+    <property type="evidence" value="ECO:0000305"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0010750">
+    <property type="term" value="P:positive regulation of nitric oxide mediated signal transduction"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0051000">
+    <property type="term" value="P:positive regulation of nitric-oxide synthase activity"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0090277">
+    <property type="term" value="P:positive regulation of peptide hormone secretion"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0051897">
+    <property type="term" value="P:positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1900182">
+    <property type="term" value="P:positive regulation of protein localization to nucleus"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050714">
+    <property type="term" value="P:positive regulation of protein secretion"/>
+    <property type="evidence" value="ECO:0000318"/>
+    <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0060267">
+    <property type="term" value="P:positive regulation of respiratory burst"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006355">
+    <property type="term" value="P:regulation of DNA-templated transcription"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0032880">
+    <property type="term" value="P:regulation of protein localization"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1903076">
+    <property type="term" value="P:regulation of protein localization to plasma membrane"/>
+    <property type="evidence" value="ECO:0000316"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050708">
+    <property type="term" value="P:regulation of protein secretion"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0048167">
+    <property type="term" value="P:regulation of synaptic plasticity"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ARUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042311">
+    <property type="term" value="P:vasodilation"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042060">
+    <property type="term" value="P:wound healing"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="BHF-UCL"/>
+  </dbReference>
+  <dbReference type="CDD" id="cd04367">
+    <property type="entry name" value="IlGF_insulin_like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="FunFam" id="1.10.100.10:FF:000003">
+    <property type="entry name" value="Insulin"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="1.10.100.10">
+    <property type="entry name" value="Insulin-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR022352">
+    <property type="entry name" value="Ins/IGF/rlx"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR004825">
+    <property type="entry name" value="Insulin"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR016179">
+    <property type="entry name" value="Insulin-like"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR036438">
+    <property type="entry name" value="Insulin-like_sf"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR022353">
+    <property type="entry name" value="Insulin_CS"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR11454:SF9">
+    <property type="entry name" value="INSULIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR11454">
+    <property type="entry name" value="INSULIN/INSULIN GROWTH FACTOR"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF00049">
+    <property type="entry name" value="Insulin"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PRINTS" id="PR00277">
+    <property type="entry name" value="INSULIN"/>
+  </dbReference>
+  <dbReference type="PRINTS" id="PR00276">
+    <property type="entry name" value="INSULINFAMLY"/>
+  </dbReference>
+  <dbReference type="SMART" id="SM00078">
+    <property type="entry name" value="IlGF"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="SUPFAM" id="SSF56994">
+    <property type="entry name" value="Insulin-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS00262">
+    <property type="entry name" value="INSULIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <proteinExistence type="evidence at protein level"/>
+  <keyword id="KW-0002">3D-structure</keyword>
+  <keyword id="KW-0025">Alternative splicing</keyword>
+  <keyword id="KW-0119">Carbohydrate metabolism</keyword>
+  <keyword id="KW-0165">Cleavage on pair of basic residues</keyword>
+  <keyword id="KW-0219">Diabetes mellitus</keyword>
+  <keyword id="KW-0903">Direct protein sequencing</keyword>
+  <keyword id="KW-0225">Disease variant</keyword>
+  <keyword id="KW-1015">Disulfide bond</keyword>
+  <keyword id="KW-0313">Glucose metabolism</keyword>
+  <keyword id="KW-0372">Hormone</keyword>
+  <keyword id="KW-0582">Pharmaceutical</keyword>
+  <keyword id="KW-1267">Proteomics identification</keyword>
+  <keyword id="KW-1185">Reference proteome</keyword>
+  <keyword id="KW-0964">Secreted</keyword>
+  <keyword id="KW-0732">Signal</keyword>
+  <feature type="signal peptide" evidence="2">
+    <location>
+      <begin position="1"/>
+      <end position="24"/>
+    </location>
+  </feature>
+  <feature type="peptide" id="PRO_0000015819" description="Insulin B chain">
+    <location>
+      <begin position="25"/>
+      <end position="54"/>
+    </location>
+  </feature>
+  <feature type="propeptide" id="PRO_0000015820" description="C peptide">
+    <location>
+      <begin position="57"/>
+      <end position="87"/>
+    </location>
+  </feature>
+  <feature type="peptide" id="PRO_0000015821" description="Insulin A chain">
+    <location>
+      <begin position="90"/>
+      <end position="110"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" description="Interchain (between B and A chains)" evidence="1 9 17 20 21 22 23 24 25">
+    <location>
+      <begin position="31"/>
+      <end position="96"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" description="Interchain (between B and A chains)" evidence="1 9 17 20 21 22 23 24 25">
+    <location>
+      <begin position="43"/>
+      <end position="109"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" evidence="1 9 14 17 18 20 21 22 23 24 25">
+    <location>
+      <begin position="95"/>
+      <end position="100"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063721" description="In MODY10; dbSNP:rs121908278." evidence="5">
+    <original>R</original>
+    <variation>C</variation>
+    <location>
+      <position position="6"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063722" description="In MODY10; dbSNP:rs121908259." evidence="7">
+    <original>R</original>
+    <variation>H</variation>
+    <location>
+      <position position="6"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063723" description="In PNDM4; dbSNP:rs80356663." evidence="4 5">
+    <original>A</original>
+    <variation>D</variation>
+    <location>
+      <position position="24"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063724" description="In PNDM4; dbSNP:rs121908272." evidence="5">
+    <original>H</original>
+    <variation>D</variation>
+    <location>
+      <position position="29"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063725" description="In PNDM4; dbSNP:rs80356664." evidence="4 5">
+    <original>G</original>
+    <variation>R</variation>
+    <location>
+      <position position="32"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063726" description="In PNDM4; dbSNP:rs80356664." evidence="4 5">
+    <original>G</original>
+    <variation>S</variation>
+    <location>
+      <position position="32"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003971" description="In HPRI; Providence; dbSNP:rs121918101." evidence="10">
+    <original>H</original>
+    <variation>D</variation>
+    <location>
+      <position position="34"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063727" description="In PNDM4; dbSNP:rs121908273." evidence="5">
+    <original>L</original>
+    <variation>P</variation>
+    <location>
+      <position position="35"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063728" description="In PNDM4; dbSNP:rs80356666." evidence="4 5">
+    <original>C</original>
+    <variation>G</variation>
+    <location>
+      <position position="43"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063729" description="In MODY10; reduces binding affinity to INSR; reduces biological activity; reduces folding properties; dbSNP:rs121908260." evidence="6 7 9">
+    <original>R</original>
+    <variation>Q</variation>
+    <location>
+      <position position="46"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063730" description="In PNDM4; dbSNP:rs80356667." evidence="4 5">
+    <original>G</original>
+    <variation>V</variation>
+    <location>
+      <position position="47"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063731" description="In PNDM4; dbSNP:rs80356668." evidence="4 5">
+    <original>F</original>
+    <variation>C</variation>
+    <location>
+      <position position="48"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003972" description="In HPRI; Los-Angeles; dbSNP:rs80356668." evidence="15 16 17">
+    <original>F</original>
+    <variation>S</variation>
+    <location>
+      <position position="48"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003973" description="In Chicago; dbSNP:rs148685531." evidence="16">
+    <original>F</original>
+    <variation>L</variation>
+    <location>
+      <position position="49"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063732" description="In T1D2; dbSNP:rs121908261." evidence="6">
+    <original>R</original>
+    <variation>C</variation>
+    <location>
+      <position position="55"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063733" description="In dbSNP:rs121908279." evidence="5">
+    <original>L</original>
+    <variation>M</variation>
+    <location>
+      <position position="68"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063734" description="In PNDM4; uncertain significance; dbSNP:rs121908274." evidence="5">
+    <original>G</original>
+    <variation>R</variation>
+    <location>
+      <position position="84"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063735" description="In PNDM4; dbSNP:rs80356669." evidence="4 5">
+    <original>R</original>
+    <variation>C</variation>
+    <location>
+      <position position="89"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003974" description="In HPRI; impairs post-translational cleavage; dbSNP:rs28933985." evidence="8 13">
+    <original>R</original>
+    <variation>H</variation>
+    <location>
+      <position position="89"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003975" description="In HPRI; Kyoto; dbSNP:rs28933985." evidence="3">
+    <original>R</original>
+    <variation>L</variation>
+    <location>
+      <position position="89"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063736" description="In PNDM4; dbSNP:rs80356670." evidence="4 5">
+    <original>G</original>
+    <variation>C</variation>
+    <location>
+      <position position="90"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_003976" description="In Wakayama; dbSNP:rs121918102." evidence="11">
+    <original>V</original>
+    <variation>L</variation>
+    <location>
+      <position position="92"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063737" description="In PNDM4; dbSNP:rs80356671." evidence="5">
+    <original>C</original>
+    <variation>S</variation>
+    <location>
+      <position position="96"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063738" description="In PNDM4; dbSNP:rs80356671." evidence="4 5">
+    <original>C</original>
+    <variation>Y</variation>
+    <location>
+      <position position="96"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063739" description="In PNDM4; dbSNP:rs121908276." evidence="5">
+    <original>S</original>
+    <variation>C</variation>
+    <location>
+      <position position="101"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063740" description="In PNDM4; dbSNP:rs121908277." evidence="5">
+    <original>Y</original>
+    <variation>C</variation>
+    <location>
+      <position position="103"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_063741" description="In PNDM4; dbSNP:rs80356672." evidence="4 5">
+    <original>Y</original>
+    <variation>C</variation>
+    <location>
+      <position position="108"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="35">
+    <location>
+      <begin position="8"/>
+      <end position="10"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="31">
+    <location>
+      <begin position="21"/>
+      <end position="23"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="36">
+    <location>
+      <begin position="25"/>
+      <end position="27"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="26">
+    <location>
+      <begin position="28"/>
+      <end position="31"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="32">
+    <location>
+      <begin position="33"/>
+      <end position="43"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="32">
+    <location>
+      <begin position="44"/>
+      <end position="46"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="32">
+    <location>
+      <begin position="48"/>
+      <end position="50"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="29">
+    <location>
+      <begin position="51"/>
+      <end position="53"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="27">
+    <location>
+      <begin position="56"/>
+      <end position="58"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="30">
+    <location>
+      <begin position="59"/>
+      <end position="66"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="37">
+    <location>
+      <begin position="72"/>
+      <end position="75"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="30">
+    <location>
+      <begin position="79"/>
+      <end position="81"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="34">
+    <location>
+      <begin position="83"/>
+      <end position="87"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="32">
+    <location>
+      <begin position="91"/>
+      <end position="97"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="33">
+    <location>
+      <begin position="99"/>
+      <end position="101"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="32">
+    <location>
+      <begin position="102"/>
+      <end position="106"/>
+    </location>
+  </feature>
+  <feature type="turn" evidence="28">
+    <location>
+      <begin position="107"/>
+      <end position="109"/>
+    </location>
+  </feature>
+  <evidence type="ECO:0000269" key="1">
+    <source>
+      <dbReference type="PubMed" id="1433291"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="2">
+    <source>
+      <dbReference type="PubMed" id="14426955"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="3">
+    <source>
+      <dbReference type="PubMed" id="1601997"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="4">
+    <source>
+      <dbReference type="PubMed" id="17855560"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="5">
+    <source>
+      <dbReference type="PubMed" id="18162506"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="6">
+    <source>
+      <dbReference type="PubMed" id="18192540"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="7">
+    <source>
+      <dbReference type="PubMed" id="20226046"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="8">
+    <source>
+      <dbReference type="PubMed" id="2196279"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="9">
+    <source>
+      <dbReference type="PubMed" id="25423173"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="10">
+    <source>
+      <dbReference type="PubMed" id="3470784"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="11">
+    <source>
+      <dbReference type="PubMed" id="3537011"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="12">
+    <source>
+      <dbReference type="PubMed" id="36309486"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="13">
+    <source>
+      <dbReference type="PubMed" id="4019786"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="14">
+    <source>
+      <dbReference type="PubMed" id="5101771"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="15">
+    <source>
+      <dbReference type="PubMed" id="6312455"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="16">
+    <source>
+      <dbReference type="PubMed" id="6424111"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="17">
+    <source>
+      <dbReference type="PubMed" id="8421693"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="18">
+    <source>
+      <dbReference type="PubMed" id="9235985"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000305" key="19"/>
+  <evidence type="ECO:0007744" key="20">
+    <source>
+      <dbReference type="PDB" id="1AI0"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="21">
+    <source>
+      <dbReference type="PDB" id="1AIY"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="22">
+    <source>
+      <dbReference type="PDB" id="1HIQ"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="23">
+    <source>
+      <dbReference type="PDB" id="1MHI"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="24">
+    <source>
+      <dbReference type="PDB" id="2MVC"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="25">
+    <source>
+      <dbReference type="PDB" id="2MVD"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="26">
+    <source>
+      <dbReference type="PDB" id="1AIY"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="27">
+    <source>
+      <dbReference type="PDB" id="1EFE"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="28">
+    <source>
+      <dbReference type="PDB" id="1HIQ"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="29">
+    <source>
+      <dbReference type="PDB" id="1LPH"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="30">
+    <source>
+      <dbReference type="PDB" id="1T0C"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="31">
+    <source>
+      <dbReference type="PDB" id="3UTQ"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="32">
+    <source>
+      <dbReference type="PDB" id="3W7Y"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="33">
+    <source>
+      <dbReference type="PDB" id="4AJX"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="34">
+    <source>
+      <dbReference type="PDB" id="4Y19"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="35">
+    <source>
+      <dbReference type="PDB" id="7NMG"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="36">
+    <source>
+      <dbReference type="PDB" id="8HSK"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007829" key="37">
+    <source>
+      <dbReference type="PDB" id="8VCX"/>
+    </source>
+  </evidence>
+  <sequence length="110" mass="11981" checksum="C2C3B23B85E520E5" modified="1986-07-21" version="1" precursor="true">MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
