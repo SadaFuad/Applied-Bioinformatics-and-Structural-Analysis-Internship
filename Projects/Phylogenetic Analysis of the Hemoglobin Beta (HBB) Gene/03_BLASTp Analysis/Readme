@@ -1,1 +1,2 @@
-
+BLASTp Analysis
+The human HBB protein sequence (RefSeq Accession: NP_000509.1) was used as the query sequence to perform a BLASTp search against the NCBI protein database. The top 25 homologous protein sequences were retrieved based on sequence similarity, query coverage, and E-value. These sequences were downloaded in FASTA format and used for subsequent multiple sequence alignment and phylogenetic analysis.
