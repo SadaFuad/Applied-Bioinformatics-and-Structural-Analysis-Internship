@@ -1,0 +1,171 @@
+>Feature ref|NP_000509.1|
+1	147	Protein
+			product	hemoglobin subunit beta
+			product	beta globin chain
+			product	hemoglobin, beta
+			product	hemoglobin beta subunit
+			product	Hb Monza protein
+2	2	Site
+			site_type	acetylation
+			note	N-acetylvaline. /evidence=ECO:0000250|UniProtKB:P02086; propagated from UniProtKB/Swiss-Prot (P68871.2)
+2	2	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) valine, in Hb A1c. /evidence=ECO:0000269|PubMed:635569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+8	146	Region
+			region	Hb-beta-like
+			note	Hemoglobin beta, gamma, delta, epsilon, and related Hb subunits
+			db_xref	CDD:381262
+8	9	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+9	9	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+10	10	Site
+			site_type	phosphorylation
+			note	Phosphoserine. /evidence=ECO:0007744|PubMed:24275569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+13	13	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+18	18	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+26	27	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+30	31	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+31	31	Site
+34	35
+38	38
+41	41
+98	98
+100	100
+103	103
+109	109
+112	113
+116	117
+120	120
+123	125
+128	129
+132	132
+			site_type	other
+			note	tetramer interface [polypeptide binding]
+			db_xref	CDD:381262
+32	32	Site
+42	43
+64	64
+67	68
+71	71
+89	89
+93	93
+97	97
+99	99
+103	104
+107	107
+142	142
+			site_type	other
+			note	heme binding site [chemical binding]
+			db_xref	CDD:381262
+33	42	mat_peptide
+			product	LVV-hemorphin-7. /id=PRO_0000296641
+			prot_note	propagated from UniProtKB/Swiss-Prot (P68871.2)
+			note	propagated from UniProtKB/Swiss-Prot (P68871.2)
+33	39	mat_peptide
+			product	Spinorphin. /id=PRO_0000424226
+			prot_note	propagated from UniProtKB/Swiss-Prot (P68871.2)
+			note	propagated from UniProtKB/Swiss-Prot (P68871.2)
+36	37	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+38	39	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+45	45	Site
+			site_type	phosphorylation
+			note	Phosphoserine. /evidence=ECO:0007744|PubMed:24275569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+46	47	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+51	51	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+53	54	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+57	58	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+60	60	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:4531009; propagated from UniProtKB/Swiss-Prot (P68871.2)
+60	60	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+67	67	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+72	73	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+75	76	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+83	83	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:4531009; propagated from UniProtKB/Swiss-Prot (P68871.2)
+83	83	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+85	86	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+88	88	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569; propagated from UniProtKB/Swiss-Prot (P68871.2)
+93	94	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+96	96	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+105	106	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+111	112	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+120	121	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+121	121	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+123	124	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+129	130	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+141	142	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+145	146	Site
+			site_type	other
+			note	(Microbial infection) Cleavage, by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated from UniProtKB/Swiss-Prot (P68871.2)
+145	145	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine, alternate. /evidence=ECO:0000269|PubMed:7358733; propagated from UniProtKB/Swiss-Prot (P68871.2)
+145	145	Site
+			site_type	acetylation
+			note	N6-acetyllysine, alternate. /evidence=ECO:0000269|PubMed:4531009; propagated from UniProtKB/Swiss-Prot (P68871.2)
+1	147	CDS
+			product	hemoglobin subunit beta
+			product	beta globin chain
+			product	hemoglobin, beta
+			product	hemoglobin beta subunit
+			product	Hb Monza protein
+			protein_id	ref|NP_000509.1|
+			db_xref	CCDS:CCDS7753.1
+
