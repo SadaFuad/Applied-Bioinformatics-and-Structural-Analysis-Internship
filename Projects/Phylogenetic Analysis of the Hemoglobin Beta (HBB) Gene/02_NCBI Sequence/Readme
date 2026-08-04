@@ -1,0 +1,3 @@
+# NCBI Protein Sequence
+
+The human HBB protein sequence (RefSeq Accession: NP_000509.1) was retrieved from the NCBI Protein database and used as the reference (query) sequence for this project. This sequence served as the basis for identifying homologous HBB proteins from mammalian species through BLASTp analysis and subsequent evolutionary and phylogenetic analyses.
