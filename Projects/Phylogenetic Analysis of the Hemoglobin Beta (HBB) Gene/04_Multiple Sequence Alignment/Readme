@@ -1,1 +1,2 @@
-
+Multiple Sequence Alignment (MSA)
+The HBB protein query sequence (**NP_000509.1**) and the selected homologous protein sequences retrieved from the BLASTp analysis were imported into **MEGA 12** for multiple sequence alignment. The alignment was performed using the **ClustalW** algorithm to identify conserved regions and sequence variations among the HBB proteins. The resulting alignment was used as the input for phylogenetic tree construction.
