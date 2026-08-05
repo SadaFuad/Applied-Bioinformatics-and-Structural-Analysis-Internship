@@ -1,1 +1,88 @@
+Phylogenetic Analysis of the Hemoglobin Beta (HBB) Gene
 
+Explore the sequence conservation and evolutionary history of the HBB gene by analyzing homologs from different mammalian species using multiple sequence alignment and phylogenetic analysis.
+
+Project Workflow
+
+NCBI Database → BLASTx Search → MEGA 12 (ClustalW MSA) → MEGA 12 (Neighbor-Joining Tree) → iTOL Visualization
+
+Step 1: Retrieve the HBB Sequence
+Visit the NCBI database.
+Search for Homo sapiens HBB.
+Open the HBB gene/protein record.
+Download the sequence in FASTA format.
+Save the file as HBB_Human.fasta.
+
+Deliverable:
+
+FASTA sequence
+Screenshot of the NCBI record
+Step 2: Identify Homologous Sequences Using BLASTx
+Open the BLASTx tool.
+Paste the HBB FASTA sequence.
+Run the search using default parameters.
+Select 20-30 mammalian homologs with:
+High Query Coverage
+High Percentage Identity
+Low E-value
+Download the selected sequences in FASTA format.
+
+Suggested Species
+
+Human (Homo sapiens)
+Chimpanzee (Pan troglodytes)
+Gorilla (Gorilla gorilla)
+Mouse (Mus musculus)
+Rat (Rattus norvegicus)
+Dog (Canis lupus familiaris)
+Cow (Bos taurus)
+Horse (Equus caballus)
+Pig (Sus scrofa)
+Rabbit (Oryctolagus cuniculus)
+
+Deliverable
+
+BLAST results
+Screenshot of the top hits
+Multi-FASTA file containing selected homologs
+Step 3: Multiple Sequence Alignment (MEGA 12)
+Open MEGA 12.
+Create a new alignment.
+Import the multi-FASTA file.
+Perform ClustalW Multiple Sequence Alignment.
+Save the alignment file.
+
+Deliverable
+
+Alignment screenshot
+Alignment file (.meg)
+Step 4: Construct a Phylogenetic Tree
+Open the aligned sequences in MEGA 12.
+Select Phylogeny → Construct/Test Neighbor-Joining Tree.
+Use default parameters (or Bootstrap = 1000 if covered in class).
+Generate the phylogenetic tree.
+
+Deliverable
+
+Phylogenetic tree image
+MEGA tree file
+Step 5: Visualize the Tree in iTOL
+Upload the tree file to iTOL.
+Customize the tree by:
+Displaying species names
+Choosing an appropriate tree layout
+Adjusting branch appearance
+Exporting the final tree as PNG or PDF
+
+Deliverable
+
+Final annotated phylogenetic tree
+Step 6: Results and Interpretation
+
+Write a brief report (200–300 words) addressing:
+
+What is the biological role of HBB?
+Which species are most closely related?
+Which species are more evolutionarily distant?
+What does the phylogenetic tree reveal about HBB conservation?
+Why is HBB considered a highly conserved gene?
